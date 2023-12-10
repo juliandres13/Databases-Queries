@@ -1,0 +1,130 @@
+{
+    "cedula": "I001",
+    "datos_personales": {
+        "nombre": "Miguel Ángel",
+        "apellido": "Cardona",
+        "email": "miguel@gmail.com",
+        "telefono": "311-233-6510"
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2024-01-30",
+    "categoria": "MOTOCICLETA",
+    "disponibilidades": []
+}
+{
+    "cedula": "I002",
+    "datos_personales": {
+        "nombre": "Ana María",
+        "apellido": "Gómez",
+        "email": "ana@gmail.com",
+        "telefono": "315-448-7823",
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2023-11-15",
+    "categoria": "AUTOMOVIL",
+    "disponibilidades": []
+}
+{
+    "cedula": "I003",
+    "datos_personales": {
+        "nombre": "Carlos Hernández",
+        "apellido": "Pérez",
+        "email": "carlos@hotmail.com",
+        "telefono": "310-577-9345"
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2024-05-22",
+    "categoria": "MOTOCICLETA",
+    "disponibilidades": []
+}
+{
+    "cedula": "I004",
+    "datos_personales": {
+        "nombre": "Laura Jiménez",
+        "apellido": "Ramírez",
+        "email": "laura@yahoo.com",
+        "telefono": "318-669-1245"
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2023-09-10",
+    "categoria": "AUTOMOVIL",
+    "disponibilidades": []
+}
+{
+    "cedula": "I005",
+    "datos_personales": {
+        "nombre": "Alejandro Rodríguez",
+        "apellido": "Sánchez",
+        "email": "alejandro@gmail.com",
+        "telefono": "314-789-5612"
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2024-03-07",
+    "categoria": "MOTOCICLETA",
+    "disponibilidades": []
+}
+{
+    "cedula": "I006",
+    "datos_personales": {
+        "nombre": "Sofía Martínez",
+        "apellido": "López",
+        "email": "sofia@gmail.com",
+        "telefono": "316-234-7890"
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2023-12-18",
+    "categoria": "AUTOMOVIL",
+    "disponibilidades": []
+}
+{
+    "cedula": "I007",
+    "datos_personales": {
+        "nombre": "Juan Carlos",
+        "apellido": "García",
+        "email": "juancarlos@gmail.com",
+        "telefono": "312-567-8901"
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2025-05-23",
+    "categoria": "MOTOCICLETA",
+    "disponibilidades": []
+}
+{
+    "cedula": "I008",
+    "datos_personales": {
+        "nombre": "María José",
+        "apellido": "Herrera",
+        "email": "mariajose@hotmail.com",
+        "telefono": "319-876-5432"
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2024-07-11",
+    "categoria": "AUTOMOVIL",
+    "disponibilidades": []
+}
+{
+    "cedula": "I009",
+    "datos_personales": {
+        "nombre": "José Luis",
+        "apellido": "Díaz",
+        "email": "joseluis@yahoo.com",
+        "telefono": "317-654-3210"
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2024-03-24",
+    "categoria": "MOTOCICLETA",
+    "disponibilidades": []
+}
+{
+    "cedula": "I010",
+    "datos_personales": {
+        "nombre": "Valentina",
+        "apellido": "Torres",
+        "email": "valentina@gmail.com",
+        "telefono": "313-890-1234"
+    },
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2023-12-25",
+    "categoria": "AUTOMOVIL",
+    "disponibilidades": []
+}

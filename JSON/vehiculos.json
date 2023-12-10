@@ -1,0 +1,70 @@
+{
+    "placa_vehiculo": "ABC-123",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Pulsar",
+    "modelo": "2023",
+    "soat": "SOAT-3546876"
+}
+{
+    "placa_vehiculo": "XYZ-456",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Toyota Corolla",
+    "modelo": "2024",
+    "soat": "SOAT-789012"
+}
+{
+    "placa_vehiculo": "QRS-101",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Isuzu D-Max",
+    "modelo": "2024",
+    "soat": "SOAT-123456"
+}
+{
+    "placa_vehiculo": "JKL-202",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Honda Civic",
+    "modelo": "2023",
+    "soat": "SOAT-567890"
+}
+{
+    "placa_vehiculo": "EFG-303",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Yamaha R6",
+    "modelo": "2024",
+    "soat": "SOAT-234567"
+}
+{
+    "placa_vehiculo": "ABC-808",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Kawasaki Ninja 650",
+    "modelo": "2023",
+    "soat": "SOAT-789456"
+}
+{
+    "placa_vehiculo": "XYZ-909",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Volkswagen Golf GTI",
+    "modelo": "2024",
+    "soat": "SOAT-234567"
+}
+{
+    "placa_vehiculo": "HIJ-404",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Ford F-150",
+    "modelo": "2023",
+    "soat": "SOAT-890123"
+}
+{
+    "placa_vehiculo": "OPQ-606",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Harley-Davidson Street Glide",
+    "modelo": "2023",
+    "soat": "SOAT-012345"
+}
+{
+    "placa_vehiculo": "RST-707",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Chevrolet Spark",
+    "modelo": "2024",
+    "soat": "SOAT-678901"
+}

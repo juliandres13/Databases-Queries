@@ -1,0 +1,33 @@
+{
+    "NIT_academia": "NIT001",
+    "nombre": "ConduExpert",
+    "direccion": "Calle 20#60-05",
+    "telefono": "312-435-6087",
+    "correo": "conduexpert@gmail.com",
+    "fecha_fundacion": "2000-06-20",
+    "sitio_web": "www.conduexpert.com",
+    "cursos_teoricos": [],
+    "cursos_practicos": []
+}
+{
+    "NIT_academia": "NIT002",
+    "nombre": "I Drive Academy",
+    "direccion": "Avenida 15#45-30",
+    "telefono": "310-789-5023",
+    "correo": "info@idrive.com",
+    "fecha_fundacion": "1995-11-12",
+    "sitio_web": "www.idrive.com",
+    "cursos_teoricos": [],
+    "cursos_practicos": []
+}
+{
+    "NIT_academia": "NIT003",
+    "nombre": "Academia de Conducción Benitez",
+    "direccion": "Calle 5#38-22",
+    "telefono": "305-432-7890",
+    "correo": "info@benitez.com",
+    "fecha_fundacion": "2005-09-08",
+    "sitio_web": "www.benitezacademy.com",
+    "cursos_teoricos": [],
+    "cursos_practicos": []
+}
