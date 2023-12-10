@@ -1,40 +1,40 @@
 {
     "id_salon": "C206",
-    "ubicacion_salon": "Edificio Central",
-    "capacidad_salon": 35
+    "ubicacion": "Edificio Central",
+    "capacidad": 35
 }
 {
     "id_salon": "D216",
-    "ubicacion_salon": "Parque",
-    "capacidad_salon": 30
+    "ubicacion": "Parque",
+    "capacidad": 30
 }
 {
     "id_salon": "U125",
-    "ubicacion_salon": "Bicentenario",
-    "capacidad_salon": 45
+    "ubicacion": "Bicentenario",
+    "capacidad": 45
 }
 {
     "id_salon": "B313",
-    "ubicacion_salon": "Edificio Central",
-    "capacidad_salon": 50
+    "ubicacion": "Edificio Central",
+    "capacidad": 50
 }
 {
     "id_salon": "D218",
-    "ubicacion_salon": "Parque",
-    "capacidad_salon": 30
+    "ubicacion": "Parque",
+    "capacidad": 30
 }
 {
     "id_salon": "U115",
-    "ubicacion_salon": "Bicentenario",
-    "capacidad_salon": 35
+    "ubicacion": "Bicentenario",
+    "capacidad": 35
 }
 {
     "id_salon": "C205",
-    "ubicacion_salon": "Edificio Central",
-    "capacidad_salon": 45
+    "ubicacion": "Edificio Central",
+    "capacidad": 45
 }
 {
     "id_salon": "U225",
-    "ubicacion_salon": "Bicentenario",
-    "capacidad_salon": 40
+    "ubicacion": "Bicentenario",
+    "capacidad": 40
 }
