@@ -8,7 +8,7 @@ CREATE TABLE
         nit_academia VARCHAR(25) NOT NULL,
         nombre_academia VARCHAR(50) NOT NULL,
         direccion_academia VARCHAR(50) NOT NULL,
-        telefono_academia VARCHAR(10) NOT NULL,
+        telefono_academia VARCHAR(15) NOT NULL,
         correo_academia VARCHAR(70) NOT NULL,
         fecha_fundacion DATE NOT NULL,
         sitio_web VARCHAR(100),
@@ -24,7 +24,7 @@ CREATE TABLE
         nombre_instructor VARCHAR(50) NOT NULL,
         apellido_instructor VARCHAR(50) NOT NULL,
         email_instructor VARCHAR(70) NOT NULL,
-        telefono_instructor VARCHAR(10) NOT NULL,
+        telefono_instructor VARCHAR(15) NOT NULL,
         vigencia_licencia DATE NOT NULL,
         categoria VARCHAR(20) NOT NULL,
         CONSTRAINT pk_instructor PRIMARY KEY (cedula_instructor),
@@ -56,7 +56,7 @@ CREATE TABLE
         apellido_estudiante VARCHAR(50) NOT NULL,
         correo_estudiante VARCHAR(70) NOT NULL,
         fecha_nacimiento_estudiante DATE NOT NULL,
-        telefono_estudiante VARCHAR(10) NOT NULL,
+        telefono_estudiante VARCHAR(15) NOT NULL,
         CONSTRAINT pk_estudiante PRIMARY KEY (cedula_estudiante),
         CONSTRAINT uq_telefono_estudiante UNIQUE (telefono_estudiante),
         CONSTRAINT uq_correo_estudiante UNIQUE (correo_estudiante)
@@ -221,23 +221,35 @@ CREATE TABLE
         )
     );
 
+----------------- ACADEMIAS --------------------
 INSERT INTO
-    `condu_expert`.`academia` (
-        `nit_academia`,
-        `nombre_academia`,
-        `direccion_academia`,
-        `telefono_academia`,
-        `correo_academia`,
-        `fecha_fundacion`,
-        `sitio_web`
-    )
+    academias (nit_academia, nombre_academia, direccion_academia, telefono_academia, correo_academia, fecha_fundacion, sitio_web)
 VALUES
-    (
-        'NIT000000001',
-        'Conduexpert',
-        'Cra 20F#46-12',
-        '3134266589',
-        'academia@conduexpert.com',
-        '2004-06-23',
-        'conduexpert.com'
-    );
+    ('NIT001', 'ConduExpert', 'Calle 20#60-05', '312-435-6087', 'conduexpert@gmail.com', '2000-06-20', 'www.conduexpert.com');
+
+---------------- ESTUDIANTES -------------------
+INSERT INTO
+    estudiantes (cedula_estudiante, nombre_estudiante, apellido_estudiante, correo_estudiante, fecha_nacimiento_estudiante, telefono_estudiante)
+VALUES
+    ('E001', 'Julián Andrés', 'León Rivera', 'julian@gmail.com', '2003-12-13', '323-456-8987');
+
+---------------- INSTRUCTORES ------------------
+INSERT INTO 
+    instructores (cedula_instructor, nit_academia, nombre_instructor, apellido_instructor, email_instructor, telefono_instructor, vigencia_licencia, categoria)
+VALUES
+    ('I001', 'NIT001', 'Miguel Ángel', 'Cardona', 'miguel@gmail.com', '311-233-6510', '2024-01-30', 'MOTOCICLETA');
+
+---------------- VEHICULOS -------------------
+INSERT INTO
+    vehiculos (placa_vehiculo, tipo_vehiculo, marca, modelo, soat)
+VALUES
+    ('ABC-123', 'MOTOCICLETA', 'Pulsar', '2023', 'abc6754');
+
+---------------- SALONES -------------------
+INSERT INTO
+    salones (id_salon, ubicacion_salon, capacidad_salon)
+VALUES
+    ('C206', 'Edificio Central', 35),
+    ('D216', 'Parque', 30),
+    ('U125', 'Bicentenario', 40),
+    ('U225', 'Bicentenario', 45);
