@@ -225,25 +225,59 @@ CREATE TABLE
 INSERT INTO
     academias (nit_academia, nombre_academia, direccion_academia, telefono_academia, correo_academia, fecha_fundacion, sitio_web)
 VALUES
-    ('NIT001', 'ConduExpert', 'Calle 20#60-05', '312-435-6087', 'conduexpert@gmail.com', '2000-06-20', 'www.conduexpert.com');
+    ('NIT001', 'ConduExpert', 'Calle 20#60-05', '312-435-6087', 'conduexpert@gmail.com', '2000-06-20', 'www.conduexpert.com'),
+    ('NIT002', 'I Drive Academy', 'Avenida 15#45-30', '310-789-5023', 'info@idrive.com', '1995-11-12', 'www.idrive.com'),
+    ('NIT003', 'Academia de Conducción Benitez', 'Calle 5#38-22', '305-432-7890', 'info@benitez.com', '2005-09-08', 'www.benitezacademy.com');
 
 ---------------- ESTUDIANTES -------------------
 INSERT INTO
     estudiantes (cedula_estudiante, nombre_estudiante, apellido_estudiante, correo_estudiante, fecha_nacimiento_estudiante, telefono_estudiante)
 VALUES
-    ('E001', 'Julián Andrés', 'León Rivera', 'julian@gmail.com', '2003-12-13', '323-456-8987');
+    ('E001', 'Julián Andrés', 'León Rivera', 'julian@gmail.com', '2003-12-13', '323-456-8987'),
+    ('E002', 'Laura Alejandra', 'Gómez Pérez', 'laura@gmail.com', '2002-08-21', '301-234-5678'),
+    ('E003', 'Carlos Enrique', 'Ramírez Rojas', 'carlos@yahoo.com', '2001-05-07', '315-789-0123'),
+    ('E004', 'María Fernanda', 'Hernández Soto', 'maria@hotmail.com', '2004-02-28', '310-678-1234'),
+    ('E005', 'Alejandro José', 'Martínez López', 'alejandro@gmail.com', '2003-09-15', '318-567-8901'),
+    ('E006', 'Paola Andrea', 'Castaño Gutiérrez', 'paola@yahoo.com', '2002-04-03', '324-789-0123'),
+    ('E007', 'Juan Manuel', 'Ortiz Vargas', 'juan@hotmail.com', '2001-11-17', '312-678-9012'),
+    ('E008', 'Camila Alejandra', 'López Castaño', 'camila@gmail.com', '2004-06-05', '305-567-8901'),
+    ('E009', 'Andrés Felipe', 'Sánchez Jiménez', 'andres@yahoo.com', '2003-01-22', '311-789-0123'),
+    ('E010', 'Sofía Carolina', 'García Ramírez', 'sofia@hotmail.com', '2002-07-08', '320-678-9012'),
+    ('E011', 'José Antonio', 'Herrera González', 'jose@gmail.com', '2001-04-14', '307-567-8901'),
+    ('E012', 'Ana María', 'Cruz Martínez', 'ana@yahoo.com', '2004-10-30', '314-789-0123'),
+    ('E013', 'David Alejandro', 'Vega Herrera', 'david@hotmail.com', '2003-06-18', '303-678-9012'),
+    ('E014', 'Valentina Isabel', 'Moreno Castro', 'valentina@gmail.com', '2002-12-04', '319-567-8901'),
+    ('E015', 'Felipe Andrés', 'Pérez Gómez', 'felipe@yahoo.com', '2001-08-12', '308-789-0123');
 
 ---------------- INSTRUCTORES ------------------
 INSERT INTO 
     instructores (cedula_instructor, nit_academia, nombre_instructor, apellido_instructor, email_instructor, telefono_instructor, vigencia_licencia, categoria)
 VALUES
-    ('I001', 'NIT001', 'Miguel Ángel', 'Cardona', 'miguel@gmail.com', '311-233-6510', '2024-01-30', 'MOTOCICLETA');
+    ('I001', 'NIT001', 'Miguel Ángel', 'Cardona', 'miguel@gmail.com', '311-233-6510', '2024-01-30', 'MOTOCICLETA'),
+    ('I002', 'NIT001', 'Ana María', 'Gómez', 'ana@gmail.com', '315-448-7823', '2023-11-15', 'AUTOMOVIL'),
+    ('I003', 'NIT001', 'Carlos Hernández', 'Pérez', 'carlos@hotmail.com', '310-577-9345', '2024-05-22', 'MOTOCICLETA'),
+    ('I004', 'NIT001', 'Laura Jiménez', 'Ramírez', 'laura@yahoo.com', '318-669-1245', '2023-09-10', 'AUTOMOVIL'),
+    ('I005', 'NIT001', 'Alejandro Rodríguez', 'Sánchez', 'alejandro@gmail.com', '314-789-5612', '2024-03-07', 'MOTOCICLETA'),
+    ('I006', 'NIT001', 'Sofía Martínez', 'López', 'sofia@gmail.com', '316-234-7890', '2023-12-18', 'AUTOMOVIL'),
+    ('I007', 'NIT001', 'Juan Carlos', 'García', 'juancarlos@gmail.com', '312-567-8901', '2025-05-23', 'MOTOCICLETA'),
+    ('I008', 'NIT001', 'María José', 'Herrera', 'mariajose@hotmail.com', '319-876-5432', '2024-07-11', 'AUTOMOVIL'),
+    ('I009', 'NIT001', 'José Luis', 'Díaz', 'joseluis@yahoo.com', '317-654-3210', '2024-03-24', 'MOTOCICLETA'),
+    ('I010', 'NIT001', 'Valentina', 'Torres', 'valentina@gmail.com', '313-890-1234', '2023-12-25', 'AUTOMOVIL');
 
 ---------------- VEHICULOS -------------------
 INSERT INTO
     vehiculos (placa_vehiculo, tipo_vehiculo, marca, modelo, soat)
 VALUES
-    ('ABC-123', 'MOTOCICLETA', 'Pulsar', '2023', 'abc6754');
+    ('ABC-123', 'MOTOCICLETA', 'Pulsar', '2023', 'SOAT-3546876'),
+    ('XYZ-456', 'AUTOMOVIL', 'Toyota Corolla', '2024', 'SOAT-789012'),
+    ('QRS-101', 'AUTOMOVIL', 'Isuzu D-Max', '2024', 'SOAT-123456'),
+    ('JKL-202', 'AUTOMOVIL', 'Honda Civic', '2023', 'SOAT-567890'),
+    ('EFG-303', 'MOTOCICLETA', 'Yamaha R6', '2024', 'SOAT-234567'),
+    ('ABC-808', 'MOTOCICLETA', 'Kawasaki Ninja 650', '2023', 'SOAT-789456'),
+    ('XYZ-909', 'AUTOMOVIL', 'Volkswagen Golf GTI', '2024', 'SOAT-234567'),
+    ('HIJ-404', 'AUTOMOVIL', 'Ford F-150', '2023', 'SOAT-890123'),
+    ('OPQ-606', 'MOTOCICLETA', 'Harley-Davidson Street Glide', '2023', 'SOAT-012345'),
+    ('RST-707', 'AUTOMOVIL', 'Chevrolet Spark', '2024', 'SOAT-678901');
 
 ---------------- SALONES -------------------
 INSERT INTO
@@ -251,5 +285,9 @@ INSERT INTO
 VALUES
     ('C206', 'Edificio Central', 35),
     ('D216', 'Parque', 30),
-    ('U125', 'Bicentenario', 40),
-    ('U225', 'Bicentenario', 45);
+    ('U125', 'Bicentenario', 45),
+    ('B313', 'Edificio Central', 50),
+    ('D218', 'Parque', 30),
+    ('U115', 'Bicentenario', 35),
+    ('C205', 'Edificio Central', 45),
+    ('U225', 'Bicentenario', 40);
