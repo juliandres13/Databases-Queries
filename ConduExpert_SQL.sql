@@ -106,12 +106,12 @@ CREATE TABLE
         id_examen VARCHAR(15) NOT NULL,
         id_curso_teorico VARCHAR(20) NOT NULL,
         cedula_estudiante VARCHAR(15) NOT NULL,
-        fecha_examen DATE NOT NULL,
-        hora_examen TIME NOT NULL,
+        fecha_examen DATE,
+        hora_inicio TIME,
+        hora_fin TIME,
         estado_examen VARCHAR(25) NOT NULL,
-        nota_examen DECIMAL(2, 1) NOT NULL,
         total_preguntas INT NOT NULL,
-        preguntas_acertadas INT NOT NULL,
+        preguntas_acertadas INT,
         CONSTRAINT pk_examen PRIMARY KEY (id_examen),
         CONSTRAINT fk_id_curso_teorico_examen FOREIGN KEY (id_curso_teorico) REFERENCES cursos_teoricos (id_curso_teorico),
         CONSTRAINT fk_cedula_estudiante_examen FOREIGN KEY (cedula_estudiante) REFERENCES estudiantes (cedula_estudiante),
@@ -392,9 +392,38 @@ VALUES
 
 -- -------------- EXAMENES ------------------
 
-
+INSERT INTO
+    examenes (id_examen, id_curso_teorico, cedula_estudiante, fecha_examen, hora_inicio, hora_fin, estado_examen, total_preguntas, preguntas_acertadas)
+VALUES
+    ('EX000001', 'CTA0001', 'E001', '2023-02-25', '06:00:00', '08:00:00', 'APROBADO', '40', '36'),
+    ('EX000002', 'CTA0002', 'E002', '2023-02-25', '06:00:00', '08:00:00', 'APROBADO', '40', '37'),
+    ('EX000003', 'CTA0001', 'E003', '2023-02-25', '06:00:00', '08:00:00', 'REPROBADO', '40', '30'),
+    ('EX000004', 'CTA0001', 'E003', '2023-02-26', '06:00:00', '08:00:00', 'APROBADO', '40', '37'),
+    ('EX000005', 'CTA0002', 'E004', '2023-02-25', '06:00:00', '08:00:00', 'APROBADO', '40', '40'),
+    ('EX000006', 'CTA0001', 'E005', '2023-02-25', '06:00:00', '08:00:00', 'APROBADO', '40', '39'),
+    ('EX000007', 'CTA0002', 'E006', '2023-02-25', '06:00:00', '08:00:00', 'APROBADO', '40', '39'),
+    ('EX000008', 'CTA0001', 'E007', '2023-02-25', '06:00:00', '08:00:00', 'APROBADO', '40', '38'),
     
-
+    ('EX000009', 'CTM0001', 'E008', '2023-02-25', '08:00:00', '10:00:00', 'APROBADO', '40', '38'),
+    ('EX000010', 'CTM0002', 'E009', '2023-02-25', '08:00:00', '10:00:00', 'REPROBADO', '40', '15'),
+    ('EX000011', 'CTM0002', 'E009', '2023-02-26', '08:00:00', '10:00:00', 'REPROBADO', '40', '22'),
+    ('EX000012', 'CTM0002', 'E009', '2023-02-26', '16:00:00', '18:00:00', 'APROBADO', '40', '37'),
+    ('EX000013', 'CTM0001', 'E010', '2023-02-25', '08:00:00', '10:00:00', 'APROBADO', '40', '39'),
+    ('EX000014', 'CTM0002', 'E011', '2023-02-25', '08:00:00', '10:00:00', 'APROBADO', '40', '36'),
+    ('EX000015', 'CTM0001', 'E012', '2023-02-25', '08:00:00', '10:00:00', 'REPROBADO', '40', '34'),
+    ('EX000016', 'CTM0001', 'E012', '2023-02-26', '08:00:00', '10:00:00', 'REPROBADO', '40', '35'),
+    ('EX000017', 'CTM0001', 'E012', '2023-02-26', '16:00:00', '18:00:00', 'REPROBADO', '40', '35'),
+    ('EX000018', 'CTM0001', 'E012', '2023-02-26', '20:00:00', '22:00:00', 'APROBADO', '40', '37'),
+    ('EX000019', 'CTM0001', 'E013', '2023-02-25', '08:00:00', '10:00:00', 'APROBADO', '40', '36'),
+    ('EX000020', 'CTM0001', 'E014', '2023-02-25', '08:00:00', '10:00:00', 'APROBADO', '40', '38'),
+    
+    ('EX000021', 'CTC0001', 'E015', '2023-02-25', '10:00:00', '12:00:00', 'REPROBADO', '40', '31'),
+    ('EX000022', 'CTC0001', 'E015', '2023-02-26', '18:00:00', '20:00:00', 'APROBADO', '40', '40'),
+    ('EX000023', 'CTC0001', 'E016', '2023-02-25', '10:00:00', '12:00:00', 'APROBADO', '40', '36'),
+    ('EX000024', 'CTC0001', 'E017', '2023-02-25', '10:00:00', '12:00:00', 'APROBADO', '40', '37'),
+    ('EX000025', 'CTC0001', 'E018', '2023-02-25', '10:00:00', '12:00:00', 'APROBADO', '40', '40'),
+    ('EX000026', 'CTC0001', 'E019', '2023-02-25', '10:00:00', '12:00:00', 'APROBADO', '40', '39'),
+    ('EX000027', 'CTC0002', 'E020', '2023-02-25', '10:00:00', '12:00:00', 'APROBADO', '40', 40);
 
 -- -------------- INSTRUCTORES ------------------
 
