@@ -1,0 +1,75 @@
+{
+    "nro_tema_clase": "TC001",
+    "titulo": "Reglas básicas de tránsito",
+    "descripcion": "Introducción a las normas y leyes de tránsito fundamentales."
+}
+{
+    "nro_tema_clase": "TC002",
+    "titulo": "Señalización vial y su significado",
+    "descripcion": "Estudio detallado de las señales de tránsito y su importancia."
+}
+{
+    "nro_tema_clase": "TC003",
+    "titulo": "Normas de prioridad en la vía",
+    "descripcion": "Cómo determinar el derecho de paso en diferentes situaciones de tránsito."
+}
+{
+    "nro_tema_clase": "TC004",
+    "titulo": "Uso adecuado de carriles",
+    "descripcion": "Instrucciones sobre el uso correcto de los carriles en diversas condiciones."
+}
+{
+    "nro_tema_clase": "TC005",
+    "titulo": "Técnicas de conducción defensiva",
+    "descripcion": "Enfoque en técnicas para prevenir accidentes y conducir de manera segura."
+}
+{
+    "nro_tema_clase": "TC006",
+    "titulo": "Conducción en condiciones adversas",
+    "descripcion": "Manejo en condiciones de lluvia, niebla, nieve y otras situaciones climáticas adversas."
+}
+{
+    "nro_tema_clase": "TC007",
+    "titulo": "Mantenimiento básico del vehículo",
+    "descripcion": "Conocimientos esenciales sobre el mantenimiento y cuidado del vehículo."
+}
+{
+    "nro_tema_clase": "TC008",
+    "titulo": "Manejo ecoeficiente",
+    "descripcion": "Técnicas de conducción para maximizar la eficiencia del combustible y minimizar el impacto ambiental."
+}
+{
+    "nro_tema_clase": "TC009",
+    "titulo": "Normativa sobre alcohol y conducción",
+    "descripcion": "Leyes y efectos del alcohol y otras sustancias en la capacidad de conducción."
+}
+{
+    "nro_tema_clase": "TC010",
+    "titulo": "Primeros auxilios básicos",
+    "descripcion": "Conocimientos fundamentales de primeros auxilios en caso de accidentes de tráfico."
+}
+{
+    "nro_tema_clase": "TC011",
+    "titulo": "Psicología del conductor",
+    "descripcion": "Entender el comportamiento del conductor y cómo afecta la seguridad vial."
+}
+{
+    "nro_tema_clase": "TC012",
+    "titulo": "Seguridad de peatones y ciclistas",
+    "descripcion": "Normas y consideraciones para la protección de peatones y ciclistas."
+}
+{
+    "nro_tema_clase": "TC013",
+    "titulo": "Uso de sistemas de seguridad vehicular",
+    "descripcion": "Funcionamiento y utilización correcta de cinturones de seguridad, airbags y otros sistemas."
+}
+{
+    "nro_tema_clase": "TC014",
+    "titulo": "Estrategias para evitar distracciones al conducir",
+    "descripcion": "Consejos para mantener la concentración y evitar distracciones."
+}
+{
+    "nro_tema_clase": "TC015",
+    "titulo": "Planificación de rutas y uso de GPS",
+    "descripcion": "Cómo planificar rutas eficientemente y el uso correcto de sistemas de navegación GPS."
+}
