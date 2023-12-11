@@ -109,18 +109,14 @@ CREATE TABLE
         cedula_estudiante VARCHAR(15) NOT NULL,
         fecha_examen DATE NOT NULL,
         hora_examen TIME NOT NULL,
-        estado_examen VARCHAR(15) NOT NULL,
+        estado_examen VARCHAR(25) NOT NULL,
         nota_examen DECIMAL(2, 1) NOT NULL,
         total_preguntas INT NOT NULL,
         preguntas_acertadas INT NOT NULL,
         CONSTRAINT pk_examen PRIMARY KEY (id_examen),
         CONSTRAINT fk_id_curso_teorico_examen FOREIGN KEY (id_curso_teorico) REFERENCES cursos_teoricos (id_curso_teorico),
         CONSTRAINT fk_cedula_estudiante_examen FOREIGN KEY (cedula_estudiante) REFERENCES estudiantes (cedula_estudiante),
-        CONSTRAINT ck_estado_examen CHECK (
-            estado_examen = 'APROBADO'
-            OR estado_examen = 'PENDIENTE'
-            OR estado_examen = 'REPROBADO'
-        )
+        CONSTRAINT ck_estado_examen CHECK (estado_examen IN ('APROBADO', 'REPROBADO', 'PENDIENTE'))
     );
     
 CREATE TABLE
@@ -232,10 +228,7 @@ CREATE TABLE
         valor_pago INT NOT NULL,
         CONSTRAINT pk_pago PRIMARY KEY (id_pago),
         CONSTRAINT fk_id_factura_pago FOREIGN KEY (id_factura) REFERENCES facturas (id_factura),
-        CONSTRAINT ck_metodo_pago CHECK (
-            metodo_pago = 'TARJETA'
-            OR metodo_pago = 'EFECTIVO'
-        )
+        CONSTRAINT ck_metodo_pago CHECK (metodo_pago IN ('TARJETA', 'EFECTIVO'))
     );
     
     
@@ -332,31 +325,73 @@ VALUES
 INSERT INTO
     facturas (id_factura, id_compra, cedula_estudiante, total_a_pagar, estado_factura)
 VALUES
-    ('F000001', 'C000001', 'E001', 1500000, ''),
-	('F000002', 'C000002', 'E002', 1500000, ''),
-	('F000003', 'C000003', 'E003', 700000, ''),
-	('F000004', 'C000004', 'E003', 800000, ''),
-	('F000005', 'C000005', 'E004', 1500000, ''),
-	('F000006', 'C000006', 'E005', 1500000, ''),
-	('F000007', 'C000007', 'E006', 1500000, ''),
-	('F000008', 'C000008', 'E007', 1500000, ''),
+    ('F000001', 'C000001', 'E001', 1500000, 'PAGADA'),
+	('F000002', 'C000002', 'E002', 1500000, 'PAGADA'),
+	('F000003', 'C000003', 'E003', 700000, 'PAGADA'),
+	('F000004', 'C000004', 'E003', 800000, 'PAGADA'),
+	('F000005', 'C000005', 'E004', 1500000, 'PAGADA'),
+	('F000006', 'C000006', 'E005', 1500000, 'PAGADA'),
+	('F000007', 'C000007', 'E006', 1500000, 'PAGADA'),
+	('F000008', 'C000008', 'E007', 1500000, 'PAGADA'),
     
-	('F000009', 'C000009', 'E008', 1000000, ''),
-	('F000010', 'C000010', 'E009', 1000000, ''),
-	('F000011', 'C000011', 'E010', 1000000, ''),
-	('F000012', 'C000012', 'E011', 500000, ''),
-	('F000013', 'C000013', 'E011', 500000, ''),
-	('F000014', 'C000014', 'E012', 1000000, ''),
-	('F000015', 'C000015', 'E013', 1000000, ''),
-	('F000016', 'C000016', 'E014', 1000000, ''),
+	('F000009', 'C000009', 'E008', 1000000, 'PAGADA'),
+	('F000010', 'C000010', 'E009', 1000000, 'PENDIENTE'),
+	('F000011', 'C000011', 'E010', 1000000, 'PAGADA'),
+	('F000012', 'C000012', 'E011', 500000, 'PAGADA'),
+	('F000013', 'C000013', 'E011', 500000, 'PAGADA'),
+	('F000014', 'C000014', 'E012', 1000000, 'PAGADA'),
+	('F000015', 'C000015', 'E013', 1000000, 'PAGADA'),
+	('F000016', 'C000016', 'E014', 1000000, 'PENDIENTE'),
     
-	('F000017', 'C000017', 'E015', 1000000, ''),
-	('F000018', 'C000018', 'E015', 1000000, ''),
-	('F000019', 'C000019', 'E016', 2000000, ''),
-	('F000020', 'C000020', 'E017', 2000000, ''),
-	('F000021', 'C000021', 'E018', 2000000, ''),
-	('F000022', 'C000022', 'E019', 2000000, ''),
-	('F000023', 'C000023', 'E020', 2000000, '');
+	('F000017', 'C000017', 'E015', 1000000, 'PAGADA'),
+	('F000018', 'C000018', 'E015', 1000000, 'PAGADA'),
+	('F000019', 'C000019', 'E016', 2000000, 'PAGADA'),
+	('F000020', 'C000020', 'E017', 2000000, 'PAGADA'),
+	('F000021', 'C000021', 'E018', 2000000, 'PAGADA'),
+	('F000022', 'C000022', 'E019', 2000000, 'PENDIENTE'),
+	('F000023', 'C000023', 'E020', 2000000, 'PAGADA');
+    
+-- -------------- PAGOS -------------------
+
+INSERT INTO
+    pagos (id_pago, id_factura, fecha_pago, metodo_pago, valor_pago)
+VALUES
+    ('P000001', 'F000001', '2023-02-01', 'EFECTIVO', 1500000),
+    ('P000002', 'F000002', '2023-02-03', 'TARJETA', 500000),
+    ('P000003', 'F000002', '2023-03-03', 'TARJETA', 500000),
+    ('P000004', 'F000002', '2023-04-03', 'TARJETA', 500000),
+    ('P000005', 'F000003', '2023-02-05', 'TARJETA', 700000),
+    ('P000006', 'F000004', '2023-03-07', 'TARJETA', 800000),
+    ('P000007', 'F000005', '2023-02-10', 'EFECTIVO', 1500000),
+    ('P000008', 'F000006', '2023-02-02', 'EFECTIVO', 1500000),
+    ('P000009', 'F000007', '2023-02-04', 'TARJETA', 1500000),
+    ('P000010', 'F000008', '2023-02-08', 'TARJETA', 1000000),
+    ('P000011', 'F000008', '2023-03-08', 'TARJETA', 500000),
+    
+    ('P000012', 'F000009', '2023-02-09', 'EFECTIVO', 500000),
+    ('P000013', 'F000009', '2023-03-09', 'EFECTIVO', 500000),
+    ('P000014', 'F000010', '2023-02-01', 'EFECTIVO', 200000),
+    ('P000015', 'F000011', '2023-02-03', 'TARJETA', 1000000),
+    ('P000016', 'F000012', '2023-02-09', 'TARJETA', 500000),
+    ('P000017', 'F000013', '2023-03-01', 'TARJETA', 500000),
+    ('P000018', 'F000014', '2023-02-01', 'TARJETA', 200000),
+    ('P000019', 'F000014', '2023-03-01', 'TARJETA', 200000),
+    ('P000020', 'F000014', '2023-04-01', 'TARJETA', 200000),
+    ('P000021', 'F000014', '2023-05-01', 'TARJETA', 200000),
+    ('P000022', 'F000014', '2023-06-01', 'TARJETA', 200000),
+    ('P000023', 'F000015', '2023-02-01', 'EFECTIVO', 1000000),
+    ('P000024', 'F000016', '2023-02-01', 'EFECTIVO', 500000),
+    
+    ('P000025', 'F000017', '2023-02-01', 'TARJETA', 500000),
+    ('P000026', 'F000017', '2023-02-15', 'TARJETA', 500000),
+    ('P000027', 'F000018', '2023-03-08', 'TARJETA', 1000000),
+    ('P000028', 'F000019', '2023-02-03', 'TARJETA', 2000000),
+    ('P000029', 'F000020', '2023-02-05', 'EFECTIVO', 2000000),
+    ('P000030', 'F000021', '2023-02-06', 'EFECTIVO', 2000000),
+    ('P000031', 'F000022', '2023-02-10', 'EFECTIVO', 1000000),
+    ('P000032', 'F000023', '2023-02-10', 'TARJETA', 2000000);
+
+-- -------------- EXAMENES ------------------
 
 
 
