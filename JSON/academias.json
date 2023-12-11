@@ -6,8 +6,61 @@
     "correo": "conduexpert@gmail.com",
     "fecha_fundacion": "2000-06-20",
     "sitio_web": "www.conduexpert.com",
-    "cursos_teoricos": [],
-    "cursos_practicos": []
+    "cursos_teoricos": [
+        {
+            "id_curso_teorico": "CTA0001",
+            "modalidad": "PRESENCIAL",
+            "categoria": "AUTOMOVIL",
+            "costo": 700000
+        },
+        {
+            "id_curso_teorico": "CTA0002",
+            "modalidad": "VIRTUAL",
+            "categoria": "AUTOMOVIL",
+            "costo": 700000
+        },
+        {
+            "id_curso_teorico": "CTM0001",
+            "modalidad": "PRESENCIAL",
+            "categoria": "MOTOCICLETA",
+            "costo": 500000
+        },
+        {
+            "id_curso_teorico": "CTM0002",
+            "modalidad": "VIRTUAL",
+            "categoria": "MOTOCICLETA",
+            "costo": 500000
+        },
+        {
+            "id_curso_teorico": "CTC0001",
+            "modalidad": "PRESENCIAL",
+            "categoria": "CAMION",
+            "costo": 1000000
+        },
+        {
+            "id_curso_teorico": "CTC0002",
+            "modalidad": "VIRTUAL",
+            "categoria": "CAMION",
+            "costo": 1000000
+        }
+    ],
+    "cursos_practicos": [
+        {
+            "id_curso_practico": "CPA0001",
+            "categoria": "AUTOMOVIL",
+            "costo": 800000
+        },
+        {
+            "id_curso_practico": "CPM0001",
+            "categoria": "MOTOCICLETA",
+            "costo": 500000
+        },
+        {
+            "id_curso_practico": "CPC0001",
+            "categoria": "CAMION",
+            "costo": 1000000
+        }
+    ]
 }
 {
     "NIT_academia": "NIT002",
@@ -30,4 +83,47 @@
     "sitio_web": "www.benitezacademy.com",
     "cursos_teoricos": [],
     "cursos_practicos": []
+}
+
+
+
+
+
+
+
+practicos
+{
+    "id_curso_practico": "",
+    "NIT_academia": "",
+    "categoria": "",
+    "costo":
+}
+[
+    {
+        "id_curso_practico": "CPA0001",
+        "NIT_academia": "NIT001",
+        "categoria": "AUTOMOVIL",
+        "costo": 800000
+    },
+    {
+        "id_curso_practico": "CPM0001",
+        "NIT_academia": "NIT001",
+        "categoria": "MOTOCICLETA",
+        "costo": 500000
+    },
+    {
+        "id_curso_practico": "CPC0001",
+        "NIT_academia": "NIT001",
+        "categoria": "CAMION",
+        "costo": 1000000
+    }
+]
+
+teoricos
+{
+    "id_curso_teorico": "",
+    "NIT_academia": "",
+    "modalidad": "",
+    "categoria": "",
+    "costo":
 }
