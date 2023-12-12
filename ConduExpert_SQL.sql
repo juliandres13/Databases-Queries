@@ -228,6 +228,28 @@ CREATE TABLE
         CONSTRAINT ck_metodo_pago CHECK (metodo_pago IN ('TARJETA', 'EFECTIVO'))
     );
     
+CREATE TABLE
+    comentarios_clase (
+        id_comentario_clase VARCHAR(15) NOT NULL,
+        id_asistencia_clase VARCHAR(15) NOT NULL,
+        comentario VARCHAR(250) NOT NULL,
+        calificacion INT NOT NULL,
+        CONSTRAINT pk_comentario_clase PRIMARY KEY (id_comentario_clase),
+        CONSTRAINT fk_asistencia_clase_comentario_clase FOREIGN KEY (id_asistencia_clase) REFERENCES asistencia_clases (id_asistencia_clase),
+        CHECK (calificacion BETWEEN 1 AND 5)
+    );
+    
+CREATE TABLE
+    comentarios_leccion (
+        id_comentario_leccion VARCHAR(15) NOT NULL,
+        id_asistencia_leccion VARCHAR(15) NOT NULL,
+        comentario VARCHAR(250) NOT NULL,
+        calificacion INT NOT NULL,
+        CONSTRAINT pk_comentario_leccion PRIMARY KEY (id_comentario_leccion),
+        CONSTRAINT fk_asistencia_leccion_comentario_leccion FOREIGN KEY (id_asistencia_leccion) REFERENCES asistencia_lecciones (id_asistencia_leccion),
+        CHECK (calificacion BETWEEN 1 AND 5)
+    );
+    
     
 -- --------------- ACADEMIAS --------------------
 INSERT INTO
@@ -1770,6 +1792,46 @@ VALUES
     ('AL000199', 'LE000199', 'E019'),
     ('AL000200', 'LE000200', 'E020');
     
+-- -------------- COMENTARIOS CLASE -------------------
+    
+INSERT INTO comentarios_clase (id_comentario_clase, id_asistencia_clase, comentario, calificacion)
+VALUES
+    ('COC000001', 'AC000001', 'Excellent explanation of traffic signs.', 1),
+    ('COC000002', 'AC000002', 'The class was a bit boring, but informative.', 2),
+    ('COC000003', 'AC000003', 'Great detail in parking rules.', 5),
+    ('COC000004', 'AC000004', 'More information on emergency situations was needed.', 3),
+    ('COC000005', 'AC000005', 'Very good class, clear and concise.', 5),
+    ('COC000006', 'AC000006', 'The instructor explained the safety rules very well.', 4),
+    ('COC000007', 'AC000007', 'The class was longer than necessary.', 2),
+    ('COC000008', 'AC000008', 'Practical examples would be useful.', 5),
+    ('COC000009', 'AC000009', 'The night driving part was very useful.', 3),
+    ('COC000010', 'AC000010', 'Needs to improve the quality of teaching materials.', 1),
+    ('COC000011', 'AC000011', 'Perfect introduction to traffic laws.', 3),
+    ('COC000012', 'AC000012', 'There could be more interaction in the class.', 2),
+    ('COC000013', 'AC000013', 'Valuable information about vehicle maintenance.', 1),
+    ('COC000014', 'AC000014', 'The teacher was very patient and clear.', 1),
+    ('COC000015', 'AC000015', 'More real examples in the explanations are needed.', 2);
+    
+-- -------------- COMENTARIOS LECCION -------------------
+
+INSERT INTO comentarios_leccion (id_comentario_leccion, id_asistencia_leccion, comentario, calificacion)
+VALUES
+    ('COL000001', 'AL000001', 'Incredible practical experience, learned a lot.', 4),
+    ('COL000002', 'AL000002', 'The instructor was very clear with the instructions.', 3),
+    ('COL000003', 'AL000003', 'I felt safe throughout the lesson.', 2),
+    ('COL000004', 'AL000004', 'The parking practice was very useful.', 3),
+    ('COL000005', 'AL000005', 'We need more time on the road.', 1),
+    ('COL000006', 'AL000006', 'Excellent handling of real traffic situations.', 5),
+    ('COL000007', 'AL000007', 'The rain simulation was very realistic.', 1),
+    ('COL000008', 'AL000008', 'I would like more practice in night conditions.', 4),
+    ('COL000009', 'AL000009', 'The vehicle used was in perfect condition.', 4),
+    ('COL000010', 'AL000010', 'The lesson was a bit fast for beginners.', 1),
+    ('COL000011', 'AL000011', 'Great practice with different types of roads.', 5),
+    ('COL000012', 'AL000012', 'The instructor gave excellent safety tips.', 4),
+    ('COL000013', 'AL000013', 'The lesson was fun and educational.', 1),
+    ('COL000014', 'AL000014', 'It would be useful to have more maneuverability exercises.', 3),
+    ('COL000015', 'AL000015', 'Lacked examples of highway driving.', 2);
+
 -- CONSULTAS
 
 -- ¿A qué clases ha asistido los estudiantes, con cuales instructores, que salón, qué temas de clase y qué fecha y hora?
