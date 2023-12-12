@@ -1864,9 +1864,11 @@ WHERE CantidadLecciones = (SELECT MAX(CantidadLecciones)
 
 SELECT cedula_estudiante, COUNT(estado_examen) AS VecesReprobado
 FROM examenes
+WHERE estado_examen = 'REPROBADO'
 GROUP BY cedula_estudiante
 HAVING VecesReprobado >= ALL(SELECT COUNT(estado_examen) AS VecesReprobado
 							 FROM examenes
+                             WHERE estado_examen = 'REPROBADO'
 							 GROUP BY cedula_estudiante);
   	
 -- Consulta final, ¿Cuál es el vehiculo mas utilizado por el estudiante que mas ha reprobado su examen teorico?
@@ -1878,9 +1880,11 @@ FROM (SELECT asistencia_lecciones.cedula_estudiante, lecciones.placa_vehiculo, C
 	  WHERE asistencia_lecciones.cedula_estudiante = (SELECT cedula_estudiante
 													  FROM (SELECT cedula_estudiante, COUNT(estado_examen) AS VecesReprobado
 														    FROM examenes
+                                                            WHERE estado_examen = 'REPROBADO'
 														    GROUP BY cedula_estudiante
 														    HAVING VecesReprobado >= ALL(SELECT COUNT(estado_examen) AS VecesReprobado
 																					     FROM examenes
+                                                                                         WHERE estado_examen = 'REPROBADO'
 																					     GROUP BY cedula_estudiante)) AS subconsulta1)
 	  GROUP BY asistencia_lecciones.cedula_estudiante, lecciones.placa_vehiculo) AS subconsulta2
 WHERE VecesUtilizado = (SELECT MAX(VecesUtilizado)
@@ -1890,9 +1894,11 @@ WHERE VecesUtilizado = (SELECT MAX(VecesUtilizado)
 							  WHERE asistencia_lecciones.cedula_estudiante = (SELECT cedula_estudiante
 																			  FROM (SELECT cedula_estudiante, COUNT(estado_examen) AS VecesReprobado
 																				    FROM examenes
+                                                                                    WHERE estado_examen = 'REPROBADO'
 																				    GROUP BY cedula_estudiante
 																				    HAVING VecesReprobado >= ALL(SELECT COUNT(estado_examen) AS VecesReprobado
 																											     FROM examenes
+                                                                                                                 WHERE estado_examen = 'REPROBADO'
 																											     GROUP BY cedula_estudiante)) AS subconsulta1)
 							  GROUP BY asistencia_lecciones.cedula_estudiante, lecciones.placa_vehiculo) AS subconsulta3);
 
