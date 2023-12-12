@@ -2,151 +2,181 @@
     "id_asistencia_clase": "AC000001",
     "id_clase": "CL000001",
     "cedula_estudiante": "E001",
-    "comentario": {
-        "id_comentario_clase": "COC000001",
-        "comentario": "Excellent explanation of traffic signs.",
-        "calificacion": 1
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000001",
+            "comentario": "Excellent explanation of traffic signs.",
+            "calificacion": 1
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000002",
     "id_clase": "CL000001",
     "cedula_estudiante": "E003",
-    "comentario": {
-        "id_comentario_clase": "COC000002",
-        "comentario": "The class was a bit boring, but informative.",
-        "calificacion": 2
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000002",
+            "comentario": "The class was a bit boring, but informative.",
+            "calificacion": 2
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000003",
     "id_clase": "CL000001",
     "cedula_estudiante": "E005",
-    "comentario": {
-        "id_comentario_clase": "COC000003",
-        "comentario": "Great detail in parking rules.",
-        "calificacion": 5
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000003",
+            "comentario": "Great detail in parking rules.",
+            "calificacion": 5
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000004",
     "id_clase": "CL000001",
     "cedula_estudiante": "E007",
-    "comentario": {
-        "id_comentario_clase": "COC000004",
-        "comentario": "More information on emergency situations was needed.",
-        "calificacion": 3
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000004",
+            "comentario": "More information on emergency situations was needed.",
+            "calificacion": 3
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000005",
     "id_clase": "CL000007",
     "cedula_estudiante": "E001",
-    "comentario": {
-        "id_comentario_clase": "COC000005",
-        "comentario": "Very good class, clear and concise.",
-        "calificacion": 5
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000005",
+            "comentario": "Very good class, clear and concise.",
+            "calificacion": 5
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000006",
     "id_clase": "CL000007",
     "cedula_estudiante": "E003",
-    "comentario": {
-        "id_comentario_clase": "COC000006",
-        "comentario": "The instructor explained the safety rules very well.",
-        "calificacion": 4
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000006",
+            "comentario": "The instructor explained the safety rules very well.",
+            "calificacion": 4
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000007",
     "id_clase": "CL000007",
     "cedula_estudiante": "E005",
-    "comentario": {
-        "id_comentario_clase": "COC000007",
-        "comentario": "The class was longer than necessary.",
-        "calificacion": 2
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000007",
+            "comentario": "The class was longer than necessary.",
+            "calificacion": 2
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000008",
     "id_clase": "CL000007",
     "cedula_estudiante": "E007",
-    "comentario": {
-        "id_comentario_clase": "COC000008",
-        "comentario": "Practical examples would be useful.",
-        "calificacion": 5
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000008",
+            "comentario": "Practical examples would be useful.",
+            "calificacion": 5
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000009",
     "id_clase": "CL000013",
     "cedula_estudiante": "E001",
-    "comentario": {
-        "id_comentario_clase": "COC000009",
-        "comentario": "The night driving part was very useful.",
-        "calificacion": 3
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000009",
+            "comentario": "The night driving part was very useful.",
+            "calificacion": 3
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000010",
     "id_clase": "CL000013",
     "cedula_estudiante": "E003",
-    "comentario": {
-        "id_comentario_clase": "COC000010",
-        "comentario": "Needs to improve the quality of teaching materials.",
-        "calificacion": 1
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000010",
+            "comentario": "Needs to improve the quality of teaching materials.",
+            "calificacion": 1
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000011",
     "id_clase": "CL000013",
     "cedula_estudiante": "E005",
-    "comentario": {
-        "id_comentario_clase": "COC000011",
-        "comentario": "Perfect introduction to traffic laws.",
-        "calificacion": 3
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000011",
+            "comentario": "Perfect introduction to traffic laws.",
+            "calificacion": 3
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000012",
     "id_clase": "CL000013",
     "cedula_estudiante": "E007",
-    "comentario": {
-        "id_comentario_clase": "COC000012",
-        "comentario": "There could be more interaction in the class.",
-        "calificacion": 2
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000012",
+            "comentario": "There could be more interaction in the class.",
+            "calificacion": 2
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000013",
     "id_clase": "CL000019",
     "cedula_estudiante": "E001",
-    "comentario": {
-        "id_comentario_clase": "COC000013",
-        "comentario": "Valuable information about vehicle maintenance.",
-        "calificacion": 1
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000013",
+            "comentario": "Valuable information about vehicle maintenance.",
+            "calificacion": 1
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000014",
     "id_clase": "CL000019",
     "cedula_estudiante": "E003",
-    "comentario": {
-        "id_comentario_clase": "COC000014",
-        "comentario": "The teacher was very patient and clear.",
-        "calificacion": 1
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000014",
+            "comentario": "The teacher was very patient and clear.",
+            "calificacion": 1
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000015",
     "id_clase": "CL000019",
     "cedula_estudiante": "E005",
-    "comentario": {
-        "id_comentario_clase": "COC000015",
-        "comentario": "More real examples in the explanations are needed.",
-        "calificacion": 2
-    }
+    "comentarios": [
+        {
+            "id_comentario_clase": "COC000015",
+            "comentario": "More real examples in the explanations are needed.",
+            "calificacion": 2
+        }
+    ]
 }
 {
     "id_asistencia_clase": "AC000016",

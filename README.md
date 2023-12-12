@@ -30,7 +30,7 @@ mongoimport --db condu_expert --collection temas_leccion --drop --file C:\Users\
 
 mongoimport --db condu_expert --collection asistencia_clases --drop --file C:\Users\Julian\Desktop\Consultas\JSON\asistencia_clases.json 
 
-mongoimport --db condu_expert --collection asistencias_leccion --drop --file C:\Users\Julian\Desktop\Consultas\JSON\asistencia_lecciones.json 
+mongoimport --db condu_expert --collection asistencia_lecciones --drop --file C:\Users\Julian\Desktop\Consultas\JSON\asistencia_lecciones.json 
 
 # Miguel:
 mongoimport --db condu_expert --collection academias --drop --file C:\Users\migue\Databases-Queries-\JSON\academias.json 
