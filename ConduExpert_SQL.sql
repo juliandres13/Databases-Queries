@@ -228,6 +228,28 @@ CREATE TABLE
         CONSTRAINT ck_metodo_pago CHECK (metodo_pago IN ('TARJETA', 'EFECTIVO'))
     );
     
+CREATE TABLE
+    comentarios_clase (
+        id_comentario_clase VARCHAR(15) NOT NULL,
+        id_asistencia_clase VARCHAR(15) NOT NULL,
+        comentario VARCHAR(250) NOT NULL,
+        calificacion INT NOT NULL,
+        CONSTRAINT pk_comentario_clase PRIMARY KEY (id_comentario_clase),
+        CONSTRAINT fk_asistencia_clase_comentario_clase FOREIGN KEY (id_asistencia_clase) REFERENCES asistencia_clases (id_asistencia_clase),
+        CHECK (calificacion BETWEEN 1 AND 5)
+    );
+    
+CREATE TABLE
+    comentarios_leccion (
+        id_comentario_leccion VARCHAR(15) NOT NULL,
+        id_asistencia_leccion VARCHAR(15) NOT NULL,
+        comentario VARCHAR(250) NOT NULL,
+        calificacion INT NOT NULL,
+        CONSTRAINT pk_comentario_leccion PRIMARY KEY (id_comentario_leccion),
+        CONSTRAINT fk_asistencia_leccion_comentario_leccion FOREIGN KEY (id_asistencia_leccion) REFERENCES asistencia_lecciones (id_asistencia_leccion),
+        CHECK (calificacion BETWEEN 1 AND 5)
+    );
+    
     
 -- --------------- ACADEMIAS --------------------
 INSERT INTO
@@ -1770,6 +1792,46 @@ VALUES
     ('AL000199', 'LE000199', 'E019'),
     ('AL000200', 'LE000200', 'E020');
     
+-- -------------- COMENTARIOS CLASE -------------------
+    
+INSERT INTO comentarios_clase (id_comentario_clase, id_asistencia_clase, comentario, calificacion)
+VALUES
+    ('COC000001', 'AC000001', 'Excelente explicación sobre las señales de tráfico.', 1),
+    ('COC000002', 'AC000002', 'La clase fue un poco aburrida, pero informativa.', 2),
+    ('COC000003', 'AC000003', 'Gran detalle en las reglas de estacionamiento.', 5),
+    ('COC000004', 'AC000004', 'Faltó más información sobre situaciones de emergencia.', 3),
+    ('COC000005', 'AC000005', 'Muy buena clase, clara y concisa.', 5),
+    ('COC000006', 'AC000006', 'El instructor explicó muy bien las normas de seguridad.', 4),
+    ('COC000007', 'AC000007', 'La clase se extendió más de lo necesario.', 2),
+    ('COC000008', 'AC000008', 'Ejemplos prácticos serían útiles.', 5),
+    ('COC000009', 'AC000009', 'Muy útil la parte sobre conducción nocturna.', 3),
+    ('COC000010', 'AC000010', 'Necesita mejorar la calidad del material de enseñanza.', 1),
+    ('COC000011', 'AC000011', 'Perfecta introducción a las leyes de tránsito.', 3),
+    ('COC000012', 'AC000012', 'Podría haber más interacción en la clase.', 2),
+    ('COC000013', 'AC000013', 'Información valiosa sobre mantenimiento del vehículo.', 1),
+    ('COC000014', 'AC000014', 'El profesor fue muy paciente y claro.', 1),
+    ('COC000015', 'AC000015', 'Se necesitan más ejemplos reales en las explicaciones.', 2);
+    
+-- -------------- COMENTARIOS LECCION -------------------
+
+INSERT INTO comentarios_leccion (id_comentario_leccion, id_asistencia_leccion, comentario, calificacion)
+VALUES
+    ('COL000001', 'AL000001', 'Increíble experiencia práctica, aprendí mucho.', 4),
+    ('COL000002', 'AL000002', 'El instructor fue muy claro con las instrucciones.', 3),
+    ('COL000003', 'AL000003', 'Me sentí seguro durante toda la lección.', 2),
+    ('COL000004', 'AL000004', 'La práctica de estacionamiento fue muy útil.', 3),
+    ('COL000005', 'AL000005', 'Necesitamos más tiempo en carretera.', 1),
+    ('COL000006', 'AL000006', 'Excelente manejo de situaciones de tráfico real.', 5),
+    ('COL000007', 'AL000007', 'La simulación de lluvia fue muy realista.', 1),
+    ('COL000008', 'AL000008', 'Me gustaría más práctica en condiciones nocturnas.', 4),
+    ('COL000009', 'AL000009', 'El vehículo utilizado estaba en perfectas condiciones.', 4),
+    ('COL000010', 'AL000010', 'La lección fue un poco rápida para principiantes.', 1),
+    ('COL000011', 'AL000011', 'Genial práctica con diferentes tipos de carreteras.', 5),
+    ('COL000012', 'AL000012', 'El instructor dio excelentes consejos de seguridad.', 4),
+    ('COL000013', 'AL000013', 'La lección fue divertida y educativa.', 1),
+    ('COL000014', 'AL000014', 'Sería útil tener más ejercicios de maniobrabilidad.', 3),
+    ('COL000015', 'AL000015', 'Faltaron ejemplos de conducción en autopista.', 2);
+
 -- CONSULTAS
 
 -- ¿A qué clases ha asistido los estudiantes, con cuales instructores, que salón, qué temas de clase y qué fecha y hora?
