@@ -26,7 +26,11 @@ mongoimport --db condu_expert --collection vehiculos --drop --file C:\Users\Juli
 
 mongoimport --db condu_expert --collection temas_clase --drop --file C:\Users\Julian\Desktop\Consultas\JSON\temas_clase.json 
 
-mongoimport --db condu_expert --collection temas_leccion --drop --file C:\Users\Julian\Desktop\Consultas\JSON\temas_leccion.json 
+mongoimport --db condu_expert --collection temas_leccion --drop --file C:\Users\Julian\Desktop\Consultas\JSON\temas_leccion.json
+
+mongoimport --db condu_expert --collection asistencia_clases --drop --file C:\Users\Julian\Desktop\Consultas\JSON\asistencia_clases.json 
+
+mongoimport --db condu_expert --collection asistencias_leccion --drop --file C:\Users\Julian\Desktop\Consultas\JSON\asistencia_lecciones.json 
 
 # Miguel:
 mongoimport --db condu_expert --collection academias --drop --file C:\Users\migue\OneDrive\Escritorio\Developing\2023-2 Bases de datos 1\Script proyecto\Databases-Queries-\JSON\academias.json 
