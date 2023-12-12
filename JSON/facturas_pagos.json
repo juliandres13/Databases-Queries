@@ -1,0 +1,399 @@
+{
+    "id_factura": "F000001",
+    "id_compra": "C000001",
+    "cedula_estudiante": "E001",
+    "total_a_pagar": 1500000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000001",
+            "fecha_pago": "2023-02-01",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 1500000
+        }
+    ]
+}
+{
+    "id_factura": "F000002",
+    "id_compra": "C000002",
+    "cedula_estudiante": "E002",
+    "total_a_pagar": 1500000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000002",
+            "fecha_pago": "2023-02-03",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 500000
+        },
+        {
+            "id_pago": "P000003",
+            "fecha_pago": "2023-03-03",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 500000
+        },
+        {
+            "id_pago": "P000004",
+            "fecha_pago": "2023-04-03",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 500000
+        }
+    ]
+}
+{
+    "id_factura": "F000003",
+    "id_compra": "C000003",
+    "cedula_estudiante": "E003",
+    "total_a_pagar": 700000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000005",
+            "fecha_pago": "2023-02-05",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 700000
+        }
+    ]
+}
+{
+    "id_factura": "F000004",
+    "id_compra": "C000004",
+    "cedula_estudiante": "E003",
+    "total_a_pagar": 800000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000006",
+            "fecha_pago": "2023-03-07",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 800000
+        }
+    ]
+}
+{
+    "id_factura": "F000005",
+    "id_compra": "C000005",
+    "cedula_estudiante": "E004",
+    "total_a_pagar": 1500000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000007",
+            "fecha_pago": "2023-02-10",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 1500000
+        }
+    ]
+}
+{
+    "id_factura": "F000006",
+    "id_compra": "C000006",
+    "cedula_estudiante": "E005",
+    "total_a_pagar": 1500000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000008",
+            "fecha_pago": "2023-02-02",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 1500000
+        }
+    ]
+}
+{
+    "id_factura": "F000007",
+    "id_compra": "C000007",
+    "cedula_estudiante": "E006",
+    "total_a_pagar": 1500000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000009",
+            "fecha_pago": "2023-02-04",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 1500000
+        }
+    ]
+}
+{
+    "id_factura": "F000008",
+    "id_compra": "C000008",
+    "cedula_estudiante": "E007",
+    "total_a_pagar": 1500000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000010",
+            "fecha_pago": "2023-02-08",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 1000000
+        },
+        {
+            "id_pago": "P000011",
+            "fecha_pago": "2023-03-08",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 500000
+        }
+    ]
+}
+{
+    "id_factura": "F000009",
+    "id_compra": "C000009",
+    "cedula_estudiante": "E008",
+    "total_a_pagar": 1000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000012",
+            "fecha_pago": "2023-02-09",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 500000
+        },
+        {
+            "id_pago": "P000013",
+            "fecha_pago": "2023-03-09",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 500000
+        }
+    ]
+}
+{
+    "id_factura": "F000010",
+    "id_compra": "C000010",
+    "cedula_estudiante": "E009",
+    "total_a_pagar": 1000000,
+    "estado_factura": "PENDIENTE",
+    "pagos": [
+        {
+            "id_pago": "P000014",
+            "fecha_pago": "2023-02-01",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 200000
+        }
+    ]
+}
+{
+    "id_factura": "F000011",
+    "id_compra": "C000011",
+    "cedula_estudiante": "E010",
+    "total_a_pagar": 1000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000015",
+            "fecha_pago": "2023-02-03",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 1000000
+        }
+    ]
+}
+{
+    "id_factura": "F000012",
+    "id_compra": "C000012",
+    "cedula_estudiante": "E011",
+    "total_a_pagar": 500000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000016",
+            "fecha_pago": "2023-02-09",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 500000
+        }
+    ]
+}
+{
+    "id_factura": "F000013",
+    "id_compra": "C000013",
+    "cedula_estudiante": "E011",
+    "total_a_pagar": 500000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000017",
+            "fecha_pago": "2023-03-01",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 500000
+        }
+    ]
+}
+{
+    "id_factura": "F000014",
+    "id_compra": "C000014",
+    "cedula_estudiante": "E012",
+    "total_a_pagar": 1000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000018",
+            "fecha_pago": "2023-02-01",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 200000
+        },
+        {
+            "id_pago": "P000019",
+            "fecha_pago": "2023-03-01",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 200000
+        },
+        {
+            "id_pago": "P000020",
+            "fecha_pago": "2023-04-01",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 200000
+        },
+        {
+            "id_pago": "P000021",
+            "fecha_pago": "2023-05-01",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 200000
+        },
+        {
+            "id_pago": "P000022",
+            "fecha_pago": "2023-06-01",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 200000
+        }
+    ]
+}
+{
+    "id_factura": "F000015",
+    "id_compra": "C000015",
+    "cedula_estudiante": "E013",
+    "total_a_pagar": 1000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000023",
+            "fecha_pago": "2023-02-01",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 1000000
+        }
+    ]
+}
+{
+    "id_factura": "F000016",
+    "id_compra": "C000016",
+    "cedula_estudiante": "E014",
+    "total_a_pagar": 1000000,
+    "estado_factura": "PENDIENTE",
+    "pagos": [
+        {
+            "id_pago": "P000024",
+            "fecha_pago": "2023-02-01",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 500000
+        }
+    ]
+}
+{
+    "id_factura": "F000017",
+    "id_compra": "C000017",
+    "cedula_estudiante": "E015",
+    "total_a_pagar": 1000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000025",
+            "fecha_pago": "2023-02-01",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 500000
+        },
+        {
+            "id_pago": "P000026",
+            "fecha_pago": "2023-02-15",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 500000
+        }
+    ]
+}
+{
+    "id_factura": "F000018",
+    "id_compra": "C000018",
+    "cedula_estudiante": "E015",
+    "total_a_pagar": 1000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000027",
+            "fecha_pago": "2023-03-08",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 1000000
+        }
+    ]
+}
+{
+    "id_factura": "F000019",
+    "id_compra": "C000019",
+    "cedula_estudiante": "E016",
+    "total_a_pagar": 2000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000028",
+            "fecha_pago": "2023-02-03",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 2000000
+        }
+    ]
+}
+{
+    "id_factura": "F000020",
+    "id_compra": "C000020",
+    "cedula_estudiante": "E017",
+    "total_a_pagar": 2000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000029",
+            "fecha_pago": "2023-02-05",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 2000000
+        }
+    ]
+}
+{
+    "id_factura": "F000021",
+    "id_compra": "C000021",
+    "cedula_estudiante": "E018",
+    "total_a_pagar": 2000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000030",
+            "fecha_pago": "2023-02-06",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 2000000
+        }
+    ]
+}
+{
+    "id_factura": "F000022",
+    "id_compra": "C000022",
+    "cedula_estudiante": "E019",
+    "total_a_pagar": 2000000,
+    "estado_factura": "PENDIENTE",
+    "pagos": [
+        {
+            "id_pago": "P000031",
+            "fecha_pago": "2023-02-10",
+            "metodo_pago": "EFECTIVO",
+            "valor_pago": 1000000
+        }
+    ]
+}
+{
+    "id_factura": "F000023",
+    "id_compra": "C000023",
+    "cedula_estudiante": "E020",
+    "total_a_pagar": 2000000,
+    "estado_factura": "PAGADA",
+    "pagos": [
+        {
+            "id_pago": "P000032",
+            "fecha_pago": "2023-02-10",
+            "metodo_pago": "TARJETA",
+            "valor_pago": 2000000
+        }
+    ]
+}

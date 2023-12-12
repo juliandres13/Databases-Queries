@@ -1,0 +1,900 @@
+{
+    "id_clase": "CL000001",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I001",
+    "salon": "S101",
+    "nro_tema_clase": "TC001",
+    "fecha": "2023-02-20",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000002",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I002",
+    "salon": null,
+    "nro_tema_clase": "TC001",
+    "fecha": "2023-02-20",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000003",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I006",
+    "salon": "S102",
+    "nro_tema_clase": "TC001",
+    "fecha": "2023-02-20",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000004",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I007",
+    "salon": null,
+    "nro_tema_clase": "TC001",
+    "fecha": "2023-02-20",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000005",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I011",
+    "salon": "S103",
+    "nro_tema_clase": "TC001",
+    "fecha": "2023-02-20",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000006",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I012",
+    "salon": null,
+    "nro_tema_clase": "TC001",
+    "fecha": "2023-02-20",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000007",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I003",
+    "salon": "S104",
+    "nro_tema_clase": "TC002",
+    "fecha": "2023-02-20",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000008",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I004",
+    "salon": null,
+    "nro_tema_clase": "TC002",
+    "fecha": "2023-02-20",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000009",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I008",
+    "salon": "S105",
+    "nro_tema_clase": "TC002",
+    "fecha": "2023-02-20",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000010",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I009",
+    "salon": null,
+    "nro_tema_clase": "TC002",
+    "fecha": "2023-02-20",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000011",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I013",
+    "salon": "S201",
+    "nro_tema_clase": "TC002",
+    "fecha": "2023-02-20",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000012",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I014",
+    "salon": null,
+    "nro_tema_clase": "TC002",
+    "fecha": "2023-02-20",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000013",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I005",
+    "salon": "S202",
+    "nro_tema_clase": "TC003",
+    "fecha": "2023-02-20",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000014",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I001",
+    "salon": null,
+    "nro_tema_clase": "TC003",
+    "fecha": "2023-02-20",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000015",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I010",
+    "salon": "S203",
+    "nro_tema_clase": "TC003",
+    "fecha": "2023-02-20",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000016",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I006",
+    "salon": null,
+    "nro_tema_clase": "TC003",
+    "fecha": "2023-02-20",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000017",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I015",
+    "salon": "S204",
+    "nro_tema_clase": "TC003",
+    "fecha": "2023-02-20",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000018",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I011",
+    "salon": null,
+    "nro_tema_clase": "TC003",
+    "fecha": "2023-02-20",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000019",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I001",
+    "salon": "S205",
+    "nro_tema_clase": "TC004",
+    "fecha": "2023-02-21",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000020",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I002",
+    "salon": null,
+    "nro_tema_clase": "TC004",
+    "fecha": "2023-02-21",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000021",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I006",
+    "salon": "S301",
+    "nro_tema_clase": "TC004",
+    "fecha": "2023-02-21",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000022",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I007",
+    "salon": null,
+    "nro_tema_clase": "TC004",
+    "fecha": "2023-02-21",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000023",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I011",
+    "salon": "S302",
+    "nro_tema_clase": "TC004",
+    "fecha": "2023-02-21",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000024",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I012",
+    "salon": null,
+    "nro_tema_clase": "TC004",
+    "fecha": "2023-02-21",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000025",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I003",
+    "salon": "S303",
+    "nro_tema_clase": "TC005",
+    "fecha": "2023-02-21",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000026",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I004",
+    "salon": null,
+    "nro_tema_clase": "TC005",
+    "fecha": "2023-02-21",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000027",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I008",
+    "salon": "S304",
+    "nro_tema_clase": "TC005",
+    "fecha": "2023-02-21",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000028",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I009",
+    "salon": null,
+    "nro_tema_clase": "TC005",
+    "fecha": "2023-02-21",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000029",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I013",
+    "salon": "S305",
+    "nro_tema_clase": "TC005",
+    "fecha": "2023-02-21",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000030",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I014",
+    "salon": null,
+    "nro_tema_clase": "TC005",
+    "fecha": "2023-02-21",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000031",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I005",
+    "salon": "S101",
+    "nro_tema_clase": "TC006",
+    "fecha": "2023-02-21",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000032",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I002",
+    "salon": null,
+    "nro_tema_clase": "TC006",
+    "fecha": "2023-02-21",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000033",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I010",
+    "salon": "S102",
+    "nro_tema_clase": "TC006",
+    "fecha": "2023-02-21",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000034",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I007",
+    "salon": null,
+    "nro_tema_clase": "TC006",
+    "fecha": "2023-02-21",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000035",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I015",
+    "salon": "S103",
+    "nro_tema_clase": "TC006",
+    "fecha": "2023-02-21",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000036",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I012",
+    "salon": null,
+    "nro_tema_clase": "TC006",
+    "fecha": "2023-02-21",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000037",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I001",
+    "salon": "S104",
+    "nro_tema_clase": "TC007",
+    "fecha": "2023-02-22",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000038",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I002",
+    "salon": null,
+    "nro_tema_clase": "TC007",
+    "fecha": "2023-02-22",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000039",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I006",
+    "salon": "S105",
+    "nro_tema_clase": "TC007",
+    "fecha": "2023-02-22",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000040",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I007",
+    "salon": null,
+    "nro_tema_clase": "TC007",
+    "fecha": "2023-02-22",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000041",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I011",
+    "salon": "S201",
+    "nro_tema_clase": "TC007",
+    "fecha": "2023-02-22",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000042",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I012",
+    "salon": null,
+    "nro_tema_clase": "TC007",
+    "fecha": "2023-02-22",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000043",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I003",
+    "salon": "S202",
+    "nro_tema_clase": "TC008",
+    "fecha": "2023-02-22",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000044",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I004",
+    "salon": null,
+    "nro_tema_clase": "TC008",
+    "fecha": "2023-02-22",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000045",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I008",
+    "salon": "S203",
+    "nro_tema_clase": "TC008",
+    "fecha": "2023-02-22",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000046",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I009",
+    "salon": null,
+    "nro_tema_clase": "TC008",
+    "fecha": "2023-02-22",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000047",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I013",
+    "salon": "S204",
+    "nro_tema_clase": "TC008",
+    "fecha": "2023-02-22",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000048",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I014",
+    "salon": null,
+    "nro_tema_clase": "TC008",
+    "fecha": "2023-02-22",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000049",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I005",
+    "salon": "S205",
+    "nro_tema_clase": "TC009",
+    "fecha": "2023-02-22",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000050",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I003",
+    "salon": null,
+    "nro_tema_clase": "TC009",
+    "fecha": "2023-02-22",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000051",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I010",
+    "salon": "S301",
+    "nro_tema_clase": "TC009",
+    "fecha": "2023-02-22",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000052",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I008",
+    "salon": null,
+    "nro_tema_clase": "TC009",
+    "fecha": "2023-02-22",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000053",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I015",
+    "salon": "S302",
+    "nro_tema_clase": "TC009",
+    "fecha": "2023-02-22",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000054",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I013",
+    "salon": null,
+    "nro_tema_clase": "TC009",
+    "fecha": "2023-02-22",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000055",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I001",
+    "salon": "S303",
+    "nro_tema_clase": "TC010",
+    "fecha": "2023-02-23",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000056",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I002",
+    "salon": null,
+    "nro_tema_clase": "TC010",
+    "fecha": "2023-02-23",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000057",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I006",
+    "salon": "S304",
+    "nro_tema_clase": "TC010",
+    "fecha": "2023-02-23",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000058",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I007",
+    "salon": null,
+    "nro_tema_clase": "TC010",
+    "fecha": "2023-02-23",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000059",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I011",
+    "salon": "S305",
+    "nro_tema_clase": "TC010",
+    "fecha": "2023-02-23",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000060",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I012",
+    "salon": null,
+    "nro_tema_clase": "TC010",
+    "fecha": "2023-02-23",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000061",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I003",
+    "salon": "S101",
+    "nro_tema_clase": "TC011",
+    "fecha": "2023-02-23",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000062",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I004",
+    "salon": null,
+    "nro_tema_clase": "TC011",
+    "fecha": "2023-02-23",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000063",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I008",
+    "salon": "S102",
+    "nro_tema_clase": "TC011",
+    "fecha": "2023-02-23",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000064",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I009",
+    "salon": null,
+    "nro_tema_clase": "TC011",
+    "fecha": "2023-02-23",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000065",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I013",
+    "salon": "S103",
+    "nro_tema_clase": "TC011",
+    "fecha": "2023-02-23",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000066",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I014",
+    "salon": null,
+    "nro_tema_clase": "TC011",
+    "fecha": "2023-02-23",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000067",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I005",
+    "salon": "S104",
+    "nro_tema_clase": "TC012",
+    "fecha": "2023-02-23",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000068",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I004",
+    "salon": null,
+    "nro_tema_clase": "TC012",
+    "fecha": "2023-02-23",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000069",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I010",
+    "salon": "S105",
+    "nro_tema_clase": "TC012",
+    "fecha": "2023-02-23",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000070",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I009",
+    "salon": null,
+    "nro_tema_clase": "TC012",
+    "fecha": "2023-02-23",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000071",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I015",
+    "salon": "S201",
+    "nro_tema_clase": "TC012",
+    "fecha": "2023-02-23",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000072",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I014",
+    "salon": null,
+    "nro_tema_clase": "TC012",
+    "fecha": "2023-02-23",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000073",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I001",
+    "salon": "S202",
+    "nro_tema_clase": "TC013",
+    "fecha": "2023-02-24",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000074",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I002",
+    "salon": null,
+    "nro_tema_clase": "TC013",
+    "fecha": "2023-02-24",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000075",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I006",
+    "salon": "S203",
+    "nro_tema_clase": "TC013",
+    "fecha": "2023-02-24",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000076",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I007",
+    "salon": null,
+    "nro_tema_clase": "TC013",
+    "fecha": "2023-02-24",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000077",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I011",
+    "salon": "S204",
+    "nro_tema_clase": "TC013",
+    "fecha": "2023-02-24",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00"
+}
+{
+    "id_clase": "CL000078",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I012",
+    "salon": null,
+    "nro_tema_clase": "TC013",
+    "fecha": "2023-02-24",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000079",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I003",
+    "salon": "S205",
+    "nro_tema_clase": "TC014",
+    "fecha": "2023-02-24",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000080",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I004",
+    "salon": null,
+    "nro_tema_clase": "TC014",
+    "fecha": "2023-02-24",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000081",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I008",
+    "salon": "S301",
+    "nro_tema_clase": "TC014",
+    "fecha": "2023-02-24",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000082",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I009",
+    "salon": null,
+    "nro_tema_clase": "TC014",
+    "fecha": "2023-02-24",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00"
+}
+{
+    "id_clase": "CL000083",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I013",
+    "salon": "S302",
+    "nro_tema_clase": "TC014",
+    "fecha": "2023-02-24",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00"
+}
+{
+    "id_clase": "CL000084",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I014",
+    "salon": null,
+    "nro_tema_clase": "TC014",
+    "fecha": "2023-02-24",
+    "hora_inicio": "14:00:00",
+    "hora_fin": "16:00:00"
+}
+{
+    "id_clase": "CL000085",
+    "id_curso_teorico": "CTA0001",
+    "cedula_instructor": "I005",
+    "salon": "S303",
+    "nro_tema_clase": "TC015",
+    "fecha": "2023-02-24",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000086",
+    "id_curso_teorico": "CTA0002",
+    "cedula_instructor": "I005",
+    "salon": null,
+    "nro_tema_clase": "TC015",
+    "fecha": "2023-02-24",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000087",
+    "id_curso_teorico": "CTM0001",
+    "cedula_instructor": "I010",
+    "salon": "S304",
+    "nro_tema_clase": "TC015",
+    "fecha": "2023-02-24",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000088",
+    "id_curso_teorico": "CTM0002",
+    "cedula_instructor": "I010",
+    "salon": null,
+    "nro_tema_clase": "TC015",
+    "fecha": "2023-02-24",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}
+{
+    "id_clase": "CL000089",
+    "id_curso_teorico": "CTC0001",
+    "cedula_instructor": "I015",
+    "salon": "S305",
+    "nro_tema_clase": "TC015",
+    "fecha": "2023-02-24",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00"
+}
+{
+    "id_clase": "CL000090",
+    "id_curso_teorico": "CTC0002",
+    "cedula_instructor": "I015",
+    "salon": null,
+    "nro_tema_clase": "TC015",
+    "fecha": "2023-02-24",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00"
+}

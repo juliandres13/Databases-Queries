@@ -1,0 +1,181 @@
+{
+    "nro_tema_leccion": "TL-A001",
+    "titulo": "Ajuste de espejos y asiento",
+    "descripcion": "Instrucciones sobre cómo ajustar los espejos y el asiento para una conducción segura.",
+    "categoria": "AUTOMOVIL"
+}
+{
+    "nro_tema_leccion": "TL-A002",
+    "titulo": "Uso de la caja de cambios",
+    "descripcion": "Práctica sobre el manejo de la caja de cambios en vehículos manuales y automáticos.",
+    "categoria": "AUTOMOVIL"
+}
+{
+    "nro_tema_leccion": "TL-A003",
+    "titulo": "Frenado y control de velocidad",
+    "descripcion": "Técnicas para frenar eficazmente y controlar la velocidad.",
+    "categoria": "AUTOMOVIL"
+}
+
+{
+    "nro_tema_leccion": "TL-A004",
+    "titulo": "Maniobras de estacionamiento",
+    "descripcion": "Práctica de diferentes técnicas de estacionamiento.",
+    "categoria": "AUTOMOVIL"
+}
+{
+    "nro_tema_leccion": "TL-A005",
+    "titulo": "Conducción en rotondas",
+    "descripcion": "Instrucciones para el manejo seguro en rotondas.",
+    "categoria": "AUTOMOVIL"
+}
+{
+    "nro_tema_leccion": "TL-A006",
+    "titulo": "Manejo en autopistas",
+    "descripcion": "Prácticas de conducción en autopistas, incluyendo el uso de carriles y la velocidad adecuada.",
+    "categoria": "AUTOMOVIL"
+}
+{
+    "nro_tema_leccion": "TL-A007",
+    "titulo": "Evitar puntos ciegos",
+    "descripcion": "Técnicas para identificar y evitar puntos ciegos.",
+    "categoria": "AUTOMOVIL"
+}
+{
+    "nro_tema_leccion": "TL-A008",
+    "titulo": "Uso de señales de giro",
+    "descripcion": "Práctica sobre el uso correcto de las señales de giro.",
+    "categoria": "AUTOMOVIL"
+}
+{
+    "nro_tema_leccion": "TL-A009",
+    "titulo": "Conducción defensiva",
+    "descripcion": "Enseñanza de técnicas de conducción defensiva.",
+    "categoria": "AUTOMOVIL"
+}
+{
+    "nro_tema_leccion": "TL-A010",
+    "titulo": "Reacción ante emergencias",
+    "descripcion": "Cómo reaccionar adecuadamente ante situaciones de emergencia en carretera.",
+    "categoria": "AUTOMOVIL"
+}
+{
+    "nro_tema_leccion": "TL-M001",
+    "titulo": "Control de la motocicleta a bajas velocidades",
+    "descripcion": "Técnicas para el manejo de la motocicleta a bajas velocidades.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-M002",
+    "titulo": "Maniobras de giro",
+    "descripcion": "Práctica de maniobras de giro seguras.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-M003",
+    "titulo": "Uso de frenos en motocicleta",
+    "descripcion": "Técnicas de frenado efectivo y seguro.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-M004",
+    "titulo": "Conducción en diferentes superficies",
+    "descripcion": "Adaptación a la conducción en superficies diversas como asfalto, grava, etc.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-M005",
+    "titulo": "Mantenimiento básico de la motocicleta",
+    "descripcion": "Enseñanza sobre el mantenimiento básico necesario.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-M006",
+    "titulo": "Uso de equipo de protección",
+    "descripcion": "Importancia y uso correcto del equipo de protección.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-M007",
+    "titulo": "Conducción en condiciones climáticas adversas",
+    "descripcion": "Prácticas de conducción segura bajo lluvia o viento.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-M008",
+    "titulo": "Conducción en grupo",
+    "descripcion": "Reglas y técnicas para la conducción en grupo.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-M009",
+    "titulo": "Técnicas de equilibrio",
+    "descripcion": "Prácticas para mejorar el equilibrio en la motocicleta.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-M010",
+    "titulo": "Señalización manual",
+    "descripcion": "Cómo y cuándo usar señalizaciones manuales.",
+    "categoria": "MOTOCICLETA"
+}
+{
+    "nro_tema_leccion": "TL-C001",
+    "titulo": "Maniobras de reversa con camión",
+    "descripcion": "Técnicas para realizar maniobras de reversa de forma segura.",
+    "categoria": "CAMION"
+}
+{
+    "nro_tema_leccion": "TL-C002",
+    "titulo": "Control de la carga",
+    "descripcion": "Métodos para asegurar y controlar la carga en el camión.",
+    "categoria": "CAMION"
+}
+{
+    "nro_tema_leccion": "TL-C003",
+    "titulo": "Uso del freno motor",
+    "descripcion": "Instrucciones sobre cómo y cuándo utilizar el freno motor.",
+    "categoria": "CAMION"
+}
+{
+    "nro_tema_leccion": "TL-C004",
+    "titulo": "Manejo en pendientes",
+    "descripcion": "Prácticas de conducción en pendientes ascendentes y descendentes.",
+    "categoria": "CAMION"
+}
+{
+    "nro_tema_leccion": "TL-C005",
+    "titulo": "Inspección preoperacional del camión",
+    "descripcion": "Cómo realizar una inspección preoperacional efectiva.",
+    "categoria": "CAMION"
+}
+{
+    "nro_tema_leccion": "TL-C006",
+    "titulo": "Conducción en espacios estrechos",
+    "descripcion": "Técnicas para maniobrar en espacios reducidos.",
+    "categoria": "CAMION"
+}
+{
+    "nro_tema_leccion": "TL-C007",
+    "titulo": "Uso de espejos en grandes dimensiones",
+    "descripcion": "Cómo utilizar los espejos correctamente en un vehículo de grandes dimensiones.",
+    "categoria": "CAMION"
+}
+{
+    "nro_tema_leccion": "TL-C008",
+    "titulo": "Acoplamiento y desacoplamiento de remolques",
+    "descripcion": "Procedimientos para acoplar y desacoplar remolques.",
+    "categoria": "CAMION"
+}
+{
+    "nro_tema_leccion": "TL-C009",
+    "titulo": "Conducción en condiciones adversas",
+    "descripcion": "Prácticas para conducir en condiciones de lluvia, nieve o niebla.",
+    "categoria": "CAMION"
+}
+{
+    "nro_tema_leccion": "TL-C010",
+    "titulo": "Regulaciones para transporte de carga",
+    "descripcion": "Instrucciones sobre las regulaciones legales en el transporte de carga.",
+    "categoria": "CAMION"
+}

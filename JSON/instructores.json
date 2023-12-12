@@ -3,108 +3,1138 @@
     "nombre": "Miguel Ángel",
     "apellido": "Cardona",
     "email": "miguel@gmail.com",
-    "telefono": "311-233-6510",
+    "telefono": "+57 3112336510",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2024-01-30",
     "categoria": "MOTOCICLETA",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000001",
+            "fecha": "2023-02-20",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000002",
+            "fecha": "2023-02-21",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "08:00:00"
+        },
+        {
+            "id_disp": "DI000003",
+            "fecha": "2023-02-22",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "08:00:00"
+        },
+        {
+            "id_disp": "DI000004",
+            "fecha": "2023-02-23",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "08:00:00"
+        },
+        {
+            "id_disp": "DI000005",
+            "fecha": "2023-02-24",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "08:00:00"
+        },
+        {
+            "id_disp": "DI000006",
+            "fecha": "2023-02-27",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        },
+        {
+            "id_disp": "DI000007",
+            "fecha": "2023-02-28",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000008",
+            "fecha": "2023-03-01",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000009",
+            "fecha": "2023-03-02",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000010",
+            "fecha": "2023-03-03",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000011",
+            "fecha": "2023-03-06",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        },
+        {
+            "id_disp": "DI000012",
+            "fecha": "2023-03-07",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000013",
+            "fecha": "2023-03-08",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000014",
+            "fecha": "2023-03-09",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000015",
+            "fecha": "2023-03-10",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        }
+    ]
 }
 {
     "cedula": "I002",
     "nombre": "Ana María",
     "apellido": "Gómez",
     "email": "ana@gmail.com",
-    "telefono": "315-448-7823",
+    "telefono": "+57 3154487823",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2023-11-15",
     "categoria": "AUTOMOVIL",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000016",
+            "fecha": "2023-02-20",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000017",
+            "fecha": "2023-02-21",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000018",
+            "fecha": "2023-02-22",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000019",
+            "fecha": "2023-02-23",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000020",
+            "fecha": "2023-02-24",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000021",
+            "fecha": "2023-02-27",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000022",
+            "fecha": "2023-02-28",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000023",
+            "fecha": "2023-03-01",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000024",
+            "fecha": "2023-03-02",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        },
+        {
+            "id_disp": "DI000025",
+            "fecha": "2023-03-03",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000026",
+            "fecha": "2023-03-06",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000027",
+            "fecha": "2023-03-07",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000028",
+            "fecha": "2023-03-08",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000029",
+            "fecha": "2023-03-09",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        },
+        {
+            "id_disp": "DI000030",
+            "fecha": "2023-03-10",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        }
+    ]
 }
 {
     "cedula": "I003",
     "nombre": "Carlos Hernández",
     "apellido": "Pérez",
     "email": "carlos@hotmail.com",
-    "telefono": "310-577-9345",
+    "telefono": "+57 3105779345",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2024-05-22",
     "categoria": "MOTOCICLETA",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000031",
+            "fecha": "2023-02-27",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000032",
+            "fecha": "2023-02-28",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        },
+        {
+            "id_disp": "DI000033",
+            "fecha": "2023-03-01",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000034",
+            "fecha": "2023-03-02",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000035",
+            "fecha": "2023-03-03",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000036",
+            "fecha": "2023-03-06",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000037",
+            "fecha": "2023-03-07",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        },
+        {
+            "id_disp": "DI000038",
+            "fecha": "2023-03-08",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000039",
+            "fecha": "2023-03-09",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000040",
+            "fecha": "2023-03-10",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        }
+    ]
 }
 {
     "cedula": "I004",
     "nombre": "Laura Jiménez",
     "apellido": "Ramírez",
     "email": "laura@yahoo.com",
-    "telefono": "318-669-1245",
+    "telefono": "+57 3186691245",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2023-09-10",
     "categoria": "AUTOMOVIL",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000041",
+            "fecha": "2023-02-27",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000042",
+            "fecha": "2023-02-28",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000043",
+            "fecha": "2023-03-01",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000044",
+            "fecha": "2023-03-02",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000045",
+            "fecha": "2023-03-03",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        },
+        {
+            "id_disp": "DI000046",
+            "fecha": "2023-03-06",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000047",
+            "fecha": "2023-03-07",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000048",
+            "fecha": "2023-03-08",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000049",
+            "fecha": "2023-03-09",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000050",
+            "fecha": "2023-03-10",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        }
+    ]
 }
 {
     "cedula": "I005",
     "nombre": "Alejandro Rodríguez",
     "apellido": "Sánchez",
     "email": "alejandro@gmail.com",
-    "telefono": "314-789-5612",
+    "telefono": "+57 3147895612",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2024-03-07",
     "categoria": "MOTOCICLETA",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000051",
+            "fecha": "2023-02-27",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000052",
+            "fecha": "2023-02-28",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000053",
+            "fecha": "2023-03-01",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000054",
+            "fecha": "2023-03-02",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000055",
+            "fecha": "2023-03-03",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000056",
+            "fecha": "2023-03-06",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000057",
+            "fecha": "2023-03-07",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000058",
+            "fecha": "2023-03-08",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000059",
+            "fecha": "2023-03-09",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000060",
+            "fecha": "2023-03-10",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        }
+    ]
 }
 {
     "cedula": "I006",
     "nombre": "Sofía Martínez",
     "apellido": "López",
     "email": "sofia@gmail.com",
-    "telefono": "316-234-7890",
+    "telefono": "+57 3162347890",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2023-12-18",
     "categoria": "AUTOMOVIL",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000061",
+            "fecha": "2023-02-27",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        },
+        {
+            "id_disp": "DI000062",
+            "fecha": "2023-02-28",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000063",
+            "fecha": "2023-03-01",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000064",
+            "fecha": "2023-03-02",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000065",
+            "fecha": "2023-03-03",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000066",
+            "fecha": "2023-03-06",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000067",
+            "fecha": "2023-03-07",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000068",
+            "fecha": "2023-03-08",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000069",
+            "fecha": "2023-03-09",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000070",
+            "fecha": "2023-03-10",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        }
+    ]
 }
 {
     "cedula": "I007",
     "nombre": "Juan Carlos",
     "apellido": "García",
     "email": "juancarlos@gmail.com",
-    "telefono": "312-567-8901",
+    "telefono": "+57 3125678901",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2025-05-23",
     "categoria": "MOTOCICLETA",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000071",
+            "fecha": "2023-02-27",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000072",
+            "fecha": "2023-02-28",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000073",
+            "fecha": "2023-03-01",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000074",
+            "fecha": "2023-03-02",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000075",
+            "fecha": "2023-03-03",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000076",
+            "fecha": "2023-03-06",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000077",
+            "fecha": "2023-03-07",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000078",
+            "fecha": "2023-03-08",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000079",
+            "fecha": "2023-03-09",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000080",
+            "fecha": "2023-03-10",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        }
+    ]
 }
 {
     "cedula": "I008",
     "nombre": "María José",
     "apellido": "Herrera",
     "email": "mariajose@hotmail.com",
-    "telefono": "319-876-5432",
+    "telefono": "+57 3198765432",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2024-07-11",
     "categoria": "AUTOMOVIL",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000081",
+            "fecha": "2023-02-27",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000082",
+            "fecha": "2023-02-28",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000083",
+            "fecha": "2023-03-01",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000084",
+            "fecha": "2023-03-02",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000085",
+            "fecha": "2023-03-03",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000086",
+            "fecha": "2023-03-06",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000087",
+            "fecha": "2023-03-07",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000088",
+            "fecha": "2023-03-08",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000089",
+            "fecha": "2023-03-09",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000090",
+            "fecha": "2023-03-10",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        }
+    ]
 }
 {
     "cedula": "I009",
     "nombre": "José Luis",
     "apellido": "Díaz",
     "email": "joseluis@yahoo.com",
-    "telefono": "317-654-3210",
+    "telefono": "+57 3176543210",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2024-03-24",
     "categoria": "MOTOCICLETA",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000091",
+            "fecha": "2023-02-27",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000092",
+            "fecha": "2023-02-28",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000093",
+            "fecha": "2023-03-01",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000094",
+            "fecha": "2023-03-02",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000095",
+            "fecha": "2023-03-03",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000096",
+            "fecha": "2023-03-06",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000097",
+            "fecha": "2023-03-07",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000098",
+            "fecha": "2023-03-08",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000099",
+            "fecha": "2023-03-09",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000100",
+            "fecha": "2023-03-10",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        }
+    ]
 }
 {
     "cedula": "I010",
     "nombre": "Valentina",
     "apellido": "Torres",
     "email": "valentina@gmail.com",
-    "telefono": "313-890-1234",
+    "telefono": "+57 3138901234",
     "NIT_academia": "NIT001",
     "vigencia_licencia": "2023-12-25",
     "categoria": "AUTOMOVIL",
-    "disponibilidades": []
+    "disponibilidades": [
+        {
+            "id_disp": "DI000101",
+            "fecha": "2023-02-27",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000102",
+            "fecha": "2023-02-28",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000103",
+            "fecha": "2023-03-01",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000104",
+            "fecha": "2023-03-02",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000105",
+            "fecha": "2023-03-03",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000106",
+            "fecha": "2023-03-06",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000107",
+            "fecha": "2023-03-07",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000108",
+            "fecha": "2023-03-08",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000109",
+            "fecha": "2023-03-09",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000110",
+            "fecha": "2023-03-10",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        }
+    ]
+}
+{
+    "cedula": "I011",
+    "nombre": "David",
+    "apellido": "Moreno",
+    "email": "david@gmail.com",
+    "telefono": "+57 3201122334",
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2024-02-15",
+    "categoria": "CAMION",
+    "disponibilidades": [
+        {
+            "id_disp": "DI000111",
+            "fecha": "2023-02-27",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "18:00:00"
+        },
+        {
+            "id_disp": "DI000112",
+            "fecha": "2023-02-28",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000113",
+            "fecha": "2023-03-01",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000114",
+            "fecha": "2023-03-02",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000115",
+            "fecha": "2023-03-03",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "10:00:00"
+        },
+        {
+            "id_disp": "DI000116",
+            "fecha": "2023-03-06",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000117",
+            "fecha": "2023-03-07",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000118",
+            "fecha": "2023-03-08",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000119",
+            "fecha": "2023-03-09",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000120",
+            "fecha": "2023-03-10",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "10:00:00"
+        }
+    ]
+}
+{
+    "cedula": "I012",
+    "nombre": "Luisa Fernanda",
+    "apellido": "Vega",
+    "email": "luisa@gmail.com",
+    "telefono": "+57 3214455667",
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2028-10-09",
+    "categoria": "CAMION",
+    "disponibilidades": [
+        {
+            "id_disp": "DI000121",
+            "fecha": "2023-02-27",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "10:00:00"
+        },
+        {
+            "id_disp": "DI000122",
+            "fecha": "2023-02-28",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000123",
+            "fecha": "2023-03-01",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000124",
+            "fecha": "2023-03-02",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000125",
+            "fecha": "2023-03-03",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000126",
+            "fecha": "2023-03-06",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000127",
+            "fecha": "2023-03-07",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000128",
+            "fecha": "2023-03-08",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000129",
+            "fecha": "2023-03-09",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000130",
+            "fecha": "2023-03-10",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        }
+    ]
+}
+{
+    "cedula": "I013",
+    "nombre": "Sergio",
+    "apellido": "González",
+    "email": "sergio@hotmail.com",
+    "telefono": "+57 3227788990",
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2028-04-18",
+    "categoria": "CAMION",
+    "disponibilidades": [
+        {
+            "id_disp": "DI000131",
+            "fecha": "2023-02-27",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000132",
+            "fecha": "2023-02-28",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000133",
+            "fecha": "2023-03-01",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000134",
+            "fecha": "2023-03-02",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000135",
+            "fecha": "2023-03-03",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000136",
+            "fecha": "2023-03-06",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000137",
+            "fecha": "2023-03-07",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000138",
+            "fecha": "2023-03-08",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000139",
+            "fecha": "2023-03-09",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000140",
+            "fecha": "2023-03-10",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        }
+    ]
+}
+{
+    "cedula": "I014",
+    "nombre": "Camila",
+    "apellido": "Gutiérrez",
+    "email": "camila@yahoo.com",
+    "telefono": "+57 3231122334",
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2027-08-22",
+    "categoria": "CAMION",
+    "disponibilidades": [
+        {
+            "id_disp": "DI000141",
+            "fecha": "2023-02-27",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000142",
+            "fecha": "2023-02-28",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000143",
+            "fecha": "2023-03-01",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "10:00:00"
+        },
+        {
+            "id_disp": "DI000144",
+            "fecha": "2023-03-02",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000145",
+            "fecha": "2023-03-03",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000146",
+            "fecha": "2023-03-06",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000147",
+            "fecha": "2023-03-07",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000148",
+            "fecha": "2023-03-08",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000149",
+            "fecha": "2023-03-09",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000150",
+            "fecha": "2023-03-10",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        }
+    ]
+}
+{
+    "cedula": "I015",
+    "nombre": "Roberto",
+    "apellido": "Castillo",
+    "email": "roberto@gmail.com",
+    "telefono": "+57 3244455667",
+    "NIT_academia": "NIT001",
+    "vigencia_licencia": "2030-06-30",
+    "categoria": "CAMION",
+    "disponibilidades": [
+        {
+            "id_disp": "DI000151",
+            "fecha": "2023-02-27",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000152",
+            "fecha": "2023-02-28",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000153",
+            "fecha": "2023-03-01",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000154",
+            "fecha": "2023-03-02",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "10:00:00"
+        },
+        {
+            "id_disp": "DI000155",
+            "fecha": "2023-03-03",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        },
+        {
+            "id_disp": "DI000156",
+            "fecha": "2023-03-06",
+            "hora_inicio": "14:00:00",
+            "hora_fin": "16:00:00"
+        },
+        {
+            "id_disp": "DI000157",
+            "fecha": "2023-03-07",
+            "hora_inicio": "12:00:00",
+            "hora_fin": "14:00:00"
+        },
+        {
+            "id_disp": "DI000158",
+            "fecha": "2023-03-08",
+            "hora_inicio": "10:00:00",
+            "hora_fin": "12:00:00"
+        },
+        {
+            "id_disp": "DI000159",
+            "fecha": "2023-03-09",
+            "hora_inicio": "08:00:00",
+            "hora_fin": "10:00:00"
+        },
+        {
+            "id_disp": "DI000160",
+            "fecha": "2023-03-10",
+            "hora_inicio": "06:00:00",
+            "hora_fin": "20:00:00"
+        }
+    ]
 }

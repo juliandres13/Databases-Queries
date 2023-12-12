@@ -1,70 +1,147 @@
 {
     "placa_vehiculo": "ABC-123",
-    "tipo_vehiculo": "MOTOCICLETA",
-    "marca": "Pulsar",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Nissan GT-R R34",
     "modelo": "2023",
-    "soat": "SOAT-3546876"
+    "vencimiento_soat": "2027-08-20"
+}
+{
+    "placa_vehiculo": "DEF-234",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Toyota Corolla",
+    "modelo": "2021",
+    "vencimiento_soat": "2026-09-15"
+}
+{
+    "placa_vehiculo": "GHI-567",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Ford Mustang",
+    "modelo": "2022",
+    "vencimiento_soat": "2026-10-20"
+}
+{
+    "placa_vehiculo": "JKL-890",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Honda Civic",
+    "modelo": "2020",
+    "vencimiento_soat": "2026-07-11"
+}
+{
+    "placa_vehiculo": "MNO-345",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Chevrolet Camaro",
+    "modelo": "2022",
+    "vencimiento_soat": "2026-12-05"
+}
+{
+    "placa_vehiculo": "PQR-678",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "BMW Serie 3",
+    "modelo": "2023",
+    "vencimiento_soat": "2027-06-18"
+}
+{
+    "placa_vehiculo": "STU-901",
+    "tipo_vehiculo": "AUTOMOVIL",
+    "marca": "Audi A4",
+    "modelo": "2021",
+    "vencimiento_soat": "2026-11-23"
+}
+{
+    "placa_vehiculo": "VWX-234",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Yamaha YZF R1",
+    "modelo": "2023",
+    "vencimiento_soat": "2027-03-19"
 }
 {
     "placa_vehiculo": "XYZ-456",
-    "tipo_vehiculo": "AUTOMOVIL",
-    "marca": "Toyota Corolla",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Pulsar NS 200",
     "modelo": "2024",
-    "soat": "SOAT-789012"
+    "vencimiento_soat": "2027-08-28"
+}
+{
+    "placa_vehiculo": "YZA-567",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Kawasaki Ninja 650",
+    "modelo": "2022",
+    "vencimiento_soat": "2026-08-27"
+}
+{
+    "placa_vehiculo": "BCD-890",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Ducati Panigale V4",
+    "modelo": "2023",
+    "vencimiento_soat": "2027-09-24"
+}
+{
+    "placa_vehiculo": "EFG-123",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Harley-Davidson Street 750",
+    "modelo": "2021",
+    "vencimiento_soat": "2026-05-06"
+}
+{
+    "placa_vehiculo": "HIJ-456",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "KTM 390 Duke",
+    "modelo": "2022",
+    "vencimiento_soat": "2026-07-29"
+}
+{
+    "placa_vehiculo": "KLM-789",
+    "tipo_vehiculo": "MOTOCICLETA",
+    "marca": "Honda CB500F",
+    "modelo": "2020",
+    "vencimiento_soat": "2026-04-17"
+}
+{
+    "placa_vehiculo": "NOP-234",
+    "tipo_vehiculo": "CAMION",
+    "marca": "Volvo FH",
+    "modelo": "2022",
+    "vencimiento_soat": "2027-11-30"
+}
+{
+    "placa_vehiculo": "QRS-567",
+    "tipo_vehiculo": "CAMION",
+    "marca": "Scania R450",
+    "modelo": "2023",
+    "vencimiento_soat": "2027-01-22"
+}
+{
+    "placa_vehiculo": "TUV-890",
+    "tipo_vehiculo": "CAMION",
+    "marca": "Mercedes-Benz Actros",
+    "modelo": "2021",
+    "vencimiento_soat": "2026-02-13"
+}
+{
+    "placa_vehiculo": "WXY-123",
+    "tipo_vehiculo": "CAMION",
+    "marca": "MAN TGX",
+    "modelo": "2024",
+    "vencimiento_soat": "2027-12-07"
+}
+{
+    "placa_vehiculo": "ZAB-456",
+    "tipo_vehiculo": "CAMION",
+    "marca": "DAF XF",
+    "modelo": "2020",
+    "vencimiento_soat": "2026-03-05"
+}
+{
+    "placa_vehiculo": "CDE-789",
+    "tipo_vehiculo": "CAMION",
+    "marca": "Iveco Stralis",
+    "modelo": "2022",
+    "vencimiento_soat": "2026-06-20"
 }
 {
     "placa_vehiculo": "QRS-101",
-    "tipo_vehiculo": "AUTOMOVIL",
-    "marca": "Isuzu D-Max",
+    "tipo_vehiculo": "CAMION",
+    "marca": "NPS 4x4 Chevrolet",
     "modelo": "2024",
-    "soat": "SOAT-123456"
-}
-{
-    "placa_vehiculo": "JKL-202",
-    "tipo_vehiculo": "AUTOMOVIL",
-    "marca": "Honda Civic",
-    "modelo": "2023",
-    "soat": "SOAT-567890"
-}
-{
-    "placa_vehiculo": "EFG-303",
-    "tipo_vehiculo": "MOTOCICLETA",
-    "marca": "Yamaha R6",
-    "modelo": "2024",
-    "soat": "SOAT-234567"
-}
-{
-    "placa_vehiculo": "ABC-808",
-    "tipo_vehiculo": "MOTOCICLETA",
-    "marca": "Kawasaki Ninja 650",
-    "modelo": "2023",
-    "soat": "SOAT-789456"
-}
-{
-    "placa_vehiculo": "XYZ-909",
-    "tipo_vehiculo": "AUTOMOVIL",
-    "marca": "Volkswagen Golf GTI",
-    "modelo": "2024",
-    "soat": "SOAT-234567"
-}
-{
-    "placa_vehiculo": "HIJ-404",
-    "tipo_vehiculo": "AUTOMOVIL",
-    "marca": "Ford F-150",
-    "modelo": "2023",
-    "soat": "SOAT-890123"
-}
-{
-    "placa_vehiculo": "OPQ-606",
-    "tipo_vehiculo": "MOTOCICLETA",
-    "marca": "Harley-Davidson Street Glide",
-    "modelo": "2023",
-    "soat": "SOAT-012345"
-}
-{
-    "placa_vehiculo": "RST-707",
-    "tipo_vehiculo": "AUTOMOVIL",
-    "marca": "Chevrolet Spark",
-    "modelo": "2024",
-    "soat": "SOAT-678901"
+    "vencimiento_soat": "2027-05-31"
 }

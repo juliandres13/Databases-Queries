@@ -4,7 +4,7 @@
     "apellido": "León Rivera",
     "correo": "julian@gmail.com",
     "fecha_nacimiento": "2003-12-13",
-    "telefono": "323-456-8987"
+    "telefono": "+57 3234568987"
 }
 {
     "cedula": "E002",
@@ -12,7 +12,7 @@
     "apellido": "Gómez Pérez",
     "correo": "laura@gmail.com",
     "fecha_nacimiento": "2002-08-21",
-    "telefono": "301-234-5678"
+    "telefono": "+57 3012345678"
 }  
 {
     "cedula": "E003",
@@ -20,7 +20,7 @@
     "apellido": "Ramírez Rojas",
     "correo": "carlos@yahoo.com",
     "fecha_nacimiento": "2001-05-07",
-    "telefono": "315-789-0123"
+    "telefono": "+57 3157890123"
 }
 {
     "cedula": "E004",
@@ -28,7 +28,7 @@
     "apellido": "Hernández Soto",
     "correo": "maria@hotmail.com",
     "fecha_nacimiento": "2004-02-28",
-    "telefono": "310-678-1234"
+    "telefono": "+57 3106781234"
 }
 {
     "cedula": "E005",
@@ -36,7 +36,7 @@
     "apellido": "Martínez López",
     "correo": "alejandro@gmail.com",
     "fecha_nacimiento": "2003-09-15",
-    "telefono": "318-567-8901"
+    "telefono": "+57 3185678901"
 }
 {
     "cedula": "E006",
@@ -44,7 +44,7 @@
     "apellido": "Castaño Gutiérrez",
     "correo": "paola@yahoo.com",
     "fecha_nacimiento": "2002-04-03",
-    "telefono": "324-789-0123"
+    "telefono": "+57 3247890123"
 }
 {
     "cedula": "E007",
@@ -52,7 +52,7 @@
     "apellido": "Ortiz Vargas",
     "correo": "juan@hotmail.com",
     "fecha_nacimiento": "2001-11-17",
-    "telefono": "312-678-9012"
+    "telefono": "+57 3126789012"
 }
 {
     "cedula": "E008",
@@ -60,7 +60,7 @@
     "apellido": "López Castaño",
     "correo": "camila@gmail.com",
     "fecha_nacimiento": "2004-06-05",
-    "telefono": "305-567-8901"
+    "telefono": "+57 3055678901"
 }
 {
     "cedula": "E009",
@@ -68,7 +68,7 @@
     "apellido": "Sánchez Jiménez",
     "correo": "andres@yahoo.com",
     "fecha_nacimiento": "2003-01-22",
-    "telefono": "311-789-0123"
+    "telefono": "+57 3117890123"
 }
 {
     "cedula": "E010",
@@ -76,7 +76,7 @@
     "apellido": "García Ramírez",
     "correo": "sofia@hotmail.com",
     "fecha_nacimiento": "2002-07-08",
-    "telefono": "320-678-9012"
+    "telefono": "+57 3206789012"
 }
 {
     "cedula": "E011",
@@ -84,7 +84,7 @@
     "apellido": "Herrera González",
     "correo": "jose@gmail.com",
     "fecha_nacimiento": "2001-04-14",
-    "telefono": "307-567-8901"
+    "telefono": "+57 3075678901"
 }
 {
     "cedula": "E012",
@@ -92,7 +92,7 @@
     "apellido": "Cruz Martínez",
     "correo": "ana@yahoo.com",
     "fecha_nacimiento": "2004-10-30",
-    "telefono": "314-789-0123"
+    "telefono": "+57 3147890123"
 }
 {
     "cedula": "E013",
@@ -100,7 +100,7 @@
     "apellido": "Vega Herrera",
     "correo": "david@hotmail.com",
     "fecha_nacimiento": "2003-06-18",
-    "telefono": "303-678-9012"
+    "telefono": "+57 3036789012"
 }
 {
     "cedula": "E014",
@@ -108,7 +108,7 @@
     "apellido": "Moreno Castro",
     "correo": "valentina@gmail.com",
     "fecha_nacimiento": "2002-12-04",
-    "telefono": "319-567-8901"
+    "telefono": "+57 3195678901"
 }
 {
     "cedula": "E015",
@@ -116,5 +116,45 @@
     "apellido": "Pérez Gómez",
     "correo": "felipe@yahoo.com",
     "fecha_nacimiento": "2001-08-12",
-    "telefono": "308-789-0123"
+    "telefono": "+57 3087890123"
+}
+{
+    "cedula": "E016",
+    "nombre": "Luisa Fernanda",
+    "apellido": "Rodríguez Díaz",
+    "correo": "luisa@gmail.com",
+    "fecha_nacimiento": "2004-03-29",
+    "telefono": "+57 3224567890"
+}
+{
+    "cedula": "E017",
+    "nombre": "Santiago",
+    "apellido": "Giraldo Molina",
+    "correo": "santiago@yahoo.com",
+    "fecha_nacimiento": "2001-09-19",
+    "telefono": "+57 3162345678"
+}
+{
+    "cedula": "E018",
+    "nombre": "Daniela",
+    "apellido": "Torres Cárdenas",
+    "correo": "daniela@hotmail.com",
+    "fecha_nacimiento": "2002-05-05",
+    "telefono": "+57 3204567891"
+}
+{
+    "cedula": "E019",
+    "nombre": "Jorge Enrique",
+    "apellido": "Ruiz Pardo",
+    "correo": "jorge@gmail.com",
+    "fecha_nacimiento": "2003-07-23",
+    "telefono": "+57 3216789012"
+}
+{
+    "cedula": "E020",
+    "nombre": "Carolina",
+    "apellido": "Díaz Salazar",
+    "correo": "carolina@yahoo.com",
+    "fecha_nacimiento": "2001-10-11",
+    "telefono": "+57 3238901234"
 }
