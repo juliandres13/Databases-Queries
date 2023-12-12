@@ -1860,8 +1860,6 @@ WHERE CantidadLecciones = (SELECT MAX(CantidadLecciones)
 						   FROM lecciones
 						   GROUP BY cedula_instructor) AS subconsulta2);
 
--- ¿Cuál es el vehiculo mas utilizado por el estudiante que mas ha reprobado su examen teorico?
-
 -- estudiante que mas ha reprobado su examen teorico
 
 SELECT cedula_estudiante, COUNT(estado_examen) AS VecesReprobado
@@ -1871,7 +1869,7 @@ HAVING VecesReprobado >= ALL(SELECT COUNT(estado_examen) AS VecesReprobado
 							 FROM examenes
 							 GROUP BY cedula_estudiante);
   	
--- Consulta final
+-- Consulta final, ¿Cuál es el vehiculo mas utilizado por el estudiante que mas ha reprobado su examen teorico?
 
 SELECT *
 FROM (SELECT asistencia_lecciones.cedula_estudiante, lecciones.placa_vehiculo, COUNT(lecciones.placa_vehiculo) AS VecesUtilizado
@@ -1899,7 +1897,5 @@ WHERE VecesUtilizado = (SELECT MAX(VecesUtilizado)
 							  GROUP BY asistencia_lecciones.cedula_estudiante, lecciones.placa_vehiculo) AS subconsulta3);
 
     
-
-
 
     
