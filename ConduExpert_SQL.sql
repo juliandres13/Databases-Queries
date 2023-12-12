@@ -1796,41 +1796,41 @@ VALUES
     
 INSERT INTO comentarios_clase (id_comentario_clase, id_asistencia_clase, comentario, calificacion)
 VALUES
-    ('COC000001', 'AC000001', 'Excelente explicación sobre las señales de tráfico.', 1),
-    ('COC000002', 'AC000002', 'La clase fue un poco aburrida, pero informativa.', 2),
-    ('COC000003', 'AC000003', 'Gran detalle en las reglas de estacionamiento.', 5),
-    ('COC000004', 'AC000004', 'Faltó más información sobre situaciones de emergencia.', 3),
-    ('COC000005', 'AC000005', 'Muy buena clase, clara y concisa.', 5),
-    ('COC000006', 'AC000006', 'El instructor explicó muy bien las normas de seguridad.', 4),
-    ('COC000007', 'AC000007', 'La clase se extendió más de lo necesario.', 2),
-    ('COC000008', 'AC000008', 'Ejemplos prácticos serían útiles.', 5),
-    ('COC000009', 'AC000009', 'Muy útil la parte sobre conducción nocturna.', 3),
-    ('COC000010', 'AC000010', 'Necesita mejorar la calidad del material de enseñanza.', 1),
-    ('COC000011', 'AC000011', 'Perfecta introducción a las leyes de tránsito.', 3),
-    ('COC000012', 'AC000012', 'Podría haber más interacción en la clase.', 2),
-    ('COC000013', 'AC000013', 'Información valiosa sobre mantenimiento del vehículo.', 1),
-    ('COC000014', 'AC000014', 'El profesor fue muy paciente y claro.', 1),
-    ('COC000015', 'AC000015', 'Se necesitan más ejemplos reales en las explicaciones.', 2);
+    ('COC000001', 'AC000001', 'Excellent explanation of traffic signs.', 1),
+    ('COC000002', 'AC000002', 'The class was a bit boring, but informative.', 2),
+    ('COC000003', 'AC000003', 'Great detail in parking rules.', 5),
+    ('COC000004', 'AC000004', 'More information on emergency situations was needed.', 3),
+    ('COC000005', 'AC000005', 'Very good class, clear and concise.', 5),
+    ('COC000006', 'AC000006', 'The instructor explained the safety rules very well.', 4),
+    ('COC000007', 'AC000007', 'The class was longer than necessary.', 2),
+    ('COC000008', 'AC000008', 'Practical examples would be useful.', 5),
+    ('COC000009', 'AC000009', 'The night driving part was very useful.', 3),
+    ('COC000010', 'AC000010', 'Needs to improve the quality of teaching materials.', 1),
+    ('COC000011', 'AC000011', 'Perfect introduction to traffic laws.', 3),
+    ('COC000012', 'AC000012', 'There could be more interaction in the class.', 2),
+    ('COC000013', 'AC000013', 'Valuable information about vehicle maintenance.', 1),
+    ('COC000014', 'AC000014', 'The teacher was very patient and clear.', 1),
+    ('COC000015', 'AC000015', 'More real examples in the explanations are needed.', 2);
     
 -- -------------- COMENTARIOS LECCION -------------------
 
 INSERT INTO comentarios_leccion (id_comentario_leccion, id_asistencia_leccion, comentario, calificacion)
 VALUES
-    ('COL000001', 'AL000001', 'Increíble experiencia práctica, aprendí mucho.', 4),
-    ('COL000002', 'AL000002', 'El instructor fue muy claro con las instrucciones.', 3),
-    ('COL000003', 'AL000003', 'Me sentí seguro durante toda la lección.', 2),
-    ('COL000004', 'AL000004', 'La práctica de estacionamiento fue muy útil.', 3),
-    ('COL000005', 'AL000005', 'Necesitamos más tiempo en carretera.', 1),
-    ('COL000006', 'AL000006', 'Excelente manejo de situaciones de tráfico real.', 5),
-    ('COL000007', 'AL000007', 'La simulación de lluvia fue muy realista.', 1),
-    ('COL000008', 'AL000008', 'Me gustaría más práctica en condiciones nocturnas.', 4),
-    ('COL000009', 'AL000009', 'El vehículo utilizado estaba en perfectas condiciones.', 4),
-    ('COL000010', 'AL000010', 'La lección fue un poco rápida para principiantes.', 1),
-    ('COL000011', 'AL000011', 'Genial práctica con diferentes tipos de carreteras.', 5),
-    ('COL000012', 'AL000012', 'El instructor dio excelentes consejos de seguridad.', 4),
-    ('COL000013', 'AL000013', 'La lección fue divertida y educativa.', 1),
-    ('COL000014', 'AL000014', 'Sería útil tener más ejercicios de maniobrabilidad.', 3),
-    ('COL000015', 'AL000015', 'Faltaron ejemplos de conducción en autopista.', 2);
+    ('COL000001', 'AL000001', 'Incredible practical experience, learned a lot.', 4),
+    ('COL000002', 'AL000002', 'The instructor was very clear with the instructions.', 3),
+    ('COL000003', 'AL000003', 'I felt safe throughout the lesson.', 2),
+    ('COL000004', 'AL000004', 'The parking practice was very useful.', 3),
+    ('COL000005', 'AL000005', 'We need more time on the road.', 1),
+    ('COL000006', 'AL000006', 'Excellent handling of real traffic situations.', 5),
+    ('COL000007', 'AL000007', 'The rain simulation was very realistic.', 1),
+    ('COL000008', 'AL000008', 'I would like more practice in night conditions.', 4),
+    ('COL000009', 'AL000009', 'The vehicle used was in perfect condition.', 4),
+    ('COL000010', 'AL000010', 'The lesson was a bit fast for beginners.', 1),
+    ('COL000011', 'AL000011', 'Great practice with different types of roads.', 5),
+    ('COL000012', 'AL000012', 'The instructor gave excellent safety tips.', 4),
+    ('COL000013', 'AL000013', 'The lesson was fun and educational.', 1),
+    ('COL000014', 'AL000014', 'It would be useful to have more maneuverability exercises.', 3),
+    ('COL000015', 'AL000015', 'Lacked examples of highway driving.', 2);
 
 -- CONSULTAS
 
