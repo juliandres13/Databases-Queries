@@ -33,26 +33,30 @@ mongoimport --db condu_expert --collection asistencia_clases --drop --file C:\Us
 mongoimport --db condu_expert --collection asistencia_lecciones --drop --file C:\Users\Julian\Desktop\Consultas\JSON\asistencia_lecciones.json 
 
 # Miguel:
-mongoimport --db condu_expert --collection academias --drop --file C:\Users\migue\Databases-Queries-\JSON\academias.json 
+mongoimport --db condu_expert --collection academias --drop --file C:\Users\migue\Databases-Queries\JSON\academias.json 
 
-mongoimport --db condu_expert --collection clases --drop --file C:\Users\migue\Databases-Queries-\JSON\clases.json 
+mongoimport --db condu_expert --collection clases --drop --file C:\Users\migue\Databases-Queries\JSON\clases.json 
 
-mongoimport --db condu_expert --collection compras --drop --file C:\Users\migue\Databases-Queries-\JSON\compras.json 
+mongoimport --db condu_expert --collection compras --drop --file C:\Users\migue\Databases-Queries\JSON\compras.json 
 
-mongoimport --db condu_expert --collection estudiantes --drop --file C:\Users\migue\Databases-Queries-\JSON\estudiantes.json 
+mongoimport --db condu_expert --collection estudiantes --drop --file C:\Users\migue\Databases-Queries\JSON\estudiantes.json 
 
-mongoimport --db condu_expert --collection examenes --drop --file C:\Users\migue\Databases-Queries-\JSON\examenes.json 
+mongoimport --db condu_expert --collection examenes --drop --file C:\Users\migue\Databases-Queries\JSON\examenes.json 
 
-mongoimport --db condu_expert --collection facturas --drop --file C:\Users\migue\Databases-Queries-\JSON\facturas_pagos.json 
+mongoimport --db condu_expert --collection facturas --drop --file C:\Users\migue\Databases-Queries\JSON\facturas_pagos.json 
 
-mongoimport --db condu_expert --collection instructores --drop --file C:\Users\migue\Databases-Queries-\JSON\instructores.json 
+mongoimport --db condu_expert --collection instructores --drop --file C:\Users\migue\Databases-Queries\JSON\instructores.json 
 
-mongoimport --db condu_expert --collection lecciones --drop --file C:\Users\migue\Databases-Queries-\JSON\lecciones.json 
+mongoimport --db condu_expert --collection lecciones --drop --file C:\Users\migue\Databases-Queries\JSON\lecciones.json 
 
-mongoimport --db condu_expert --collection salones --drop --file C:\Users\migue\Databases-Queries-\JSON\salones.json 
+mongoimport --db condu_expert --collection salones --drop --file C:\Users\migue\Databases-Queries\JSON\salones.json 
 
-mongoimport --db condu_expert --collection vehiculos --drop --file C:\Users\migue\Databases-Queries-\JSON\vehiculos.json 
+mongoimport --db condu_expert --collection vehiculos --drop --file C:\Users\migue\Databases-Queries\JSON\vehiculos.json 
 
-mongoimport --db condu_expert --collection temas_clase --drop --file C:\Users\migue\Databases-Queries-\JSON\temas_clase.json 
+mongoimport --db condu_expert --collection temas_clase --drop --file C:\Users\migue\Databases-Queries\JSON\temas_clase.json 
 
-mongoimport --db condu_expert --collection temas_leccion --drop --file C:\Users\migue\Databases-Queries-\JSON\temas_leccion.json 
+mongoimport --db condu_expert --collection temas_leccion --drop --file C:\Users\migue\Databases-Queries\JSON\temas_leccion.json 
+
+mongoimport --db condu_expert --collection asistencia_clases --drop --file C:\Users\migue\Databases-Queries\JSON\asistencia_clases.json
+
+mongoimport --db condu_expert --collection asistencias_leccion --drop --file C:\Users\migue\Databases-Queries\JSON\asistencia_lecciones.json
