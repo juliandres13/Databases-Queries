@@ -1,0 +1,2200 @@
+{
+    "id_leccion": "LE000001",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A001",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-02-27",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000002",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A001",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-02-27",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000003",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A001",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-02-27",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000004",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A001",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-02-27",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000005",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A001",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-02-27",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000006",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A001",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-02-27",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000007",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A001",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-02-27",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000008",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A002",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-02-28",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000009",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A002",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-02-28",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000010",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A002",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-02-28",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000011",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A002",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-02-28",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000012",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A002",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-02-28",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000013",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A002",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-02-28",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000014",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A002",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-02-28",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000015",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A003",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-01",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000016",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A003",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-03-01",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000017",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A003",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-01",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000018",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A003",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-01",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000019",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A003",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-01",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000020",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A003",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-01",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000021",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A003",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-01",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000022",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A004",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-02",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000023",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A004",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-03-02",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000024",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A004",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-02",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000025",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A004",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-02",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000026",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A004",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-02",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000027",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A004",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-02",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000028",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A004",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-02",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000029",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A005",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-03",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000030",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A005",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-03-03",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000031",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A005",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-03",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000032",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A005",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-03",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000033",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A005",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-03",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000034",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A005",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-03",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000035",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A005",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-03",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000036",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A006",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-06",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000037",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A006",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-03-06",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000038",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A006",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-06",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000039",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A006",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-06",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000040",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A006",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-06",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000041",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A006",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-06",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000042",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A006",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-06",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000043",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A007",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-07",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000044",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A007",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-03-07",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000045",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A007",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-07",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000046",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A007",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-07",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000047",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A007",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-07",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000048",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A007",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-07",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000049",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A007",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-07",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000050",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A008",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-08",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000051",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A008",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-03-08",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000052",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A008",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-08",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000053",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A008",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-08",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000054",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A008",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-08",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000055",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A008",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-08",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000056",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A008",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-08",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000057",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A009",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-09",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000058",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A009",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-03-09",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000059",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A009",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-09",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000060",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A009",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-09",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000061",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A009",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-09",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000062",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A009",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-09",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000063",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A009",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-09",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000064",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "ABC-123",
+    "nro_tema_leccion": "TL-A010",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-10",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000065",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "DEF-234",
+    "nro_tema_leccion": "TL-A010",
+    "lugar": "Cancha - Colegio San Luis",
+    "fecha": "2023-03-10",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000066",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I001",
+    "placa_vehiculo": "GHI-567",
+    "nro_tema_leccion": "TL-A010",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-10",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000067",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I002",
+    "placa_vehiculo": "JKL-890",
+    "nro_tema_leccion": "TL-A010",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-10",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000068",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I003",
+    "placa_vehiculo": "MNO-345",
+    "nro_tema_leccion": "TL-A010",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-10",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000069",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I004",
+    "placa_vehiculo": "PQR-678",
+    "nro_tema_leccion": "TL-A010",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-10",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000070",
+    "id_curso_practico": "CPA0001",
+    "cedula_instructor": "I005",
+    "placa_vehiculo": "STU-901",
+    "nro_tema_leccion": "TL-A010",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-10",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000071",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M001",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-02-27",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000072",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M001",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-02-27",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000073",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M001",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-02-27",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000074",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M001",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-02-27",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000075",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M001",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-02-27",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000076",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M001",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-02-27",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000077",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M001",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-02-27",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000078",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M002",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-02-28",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000079",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M002",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-02-28",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000080",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M002",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-02-28",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000081",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M002",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-02-28",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000082",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M002",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-02-28",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000083",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M002",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-02-28",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000084",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M002",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-02-28",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000085",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M003",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-01",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000086",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M003",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-01",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000087",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M003",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-01",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000088",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M003",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-01",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000089",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M003",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-01",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000090",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M003",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-01",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000091",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M003",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-01",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000092",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M004",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-02",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000093",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M004",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-02",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000094",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M004",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-02",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000095",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M004",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-02",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000096",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M004",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-02",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000097",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M004",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-02",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000098",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M004",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-02",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000099",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M005",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-03",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000100",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M005",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-03",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000101",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M005",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-03",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000102",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M005",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-03",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000103",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M005",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-03",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000104",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M005",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-03",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000105",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M005",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-03",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000106",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M006",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-06",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000107",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M006",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-06",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000108",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M006",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-06",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000109",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M006",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-06",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000110",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M006",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-06",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000111",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M006",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-06",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000112",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M006",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-06",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000113",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M007",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-07",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000114",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M007",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-07",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000115",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M007",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-07",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000116",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M007",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-07",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000117",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M007",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-07",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000118",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M007",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-07",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000119",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M007",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-07",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000120",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M008",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-08",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000121",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M008",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-08",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000122",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M008",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-08",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000123",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M008",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-08",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000124",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M008",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-08",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000125",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M008",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-08",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000126",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M008",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-08",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000127",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M009",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-09",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000128",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M009",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-09",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000129",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M009",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-09",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000130",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M009",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-09",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000131",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M009",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-09",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000132",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M009",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-09",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000133",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M009",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-09",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000134",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "VWX-234",
+    "nro_tema_leccion": "TL-M010",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-10",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000135",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "XYZ-456",
+    "nro_tema_leccion": "TL-M010",
+    "lugar": "Parqueadero - Mall Unicentro",
+    "fecha": "2023-03-10",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000136",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I006",
+    "placa_vehiculo": "YZA-567",
+    "nro_tema_leccion": "TL-M010",
+    "lugar": "Parqueadero - Jardin Plaza",
+    "fecha": "2023-03-10",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000137",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I007",
+    "placa_vehiculo": "BCD-890",
+    "nro_tema_leccion": "TL-M010",
+    "lugar": "Cancha - Colegio San Marcel",
+    "fecha": "2023-03-10",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000138",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I008",
+    "placa_vehiculo": "EFG-123",
+    "nro_tema_leccion": "TL-M010",
+    "lugar": "Cancha - colegio Los Nogales",
+    "fecha": "2023-03-10",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000139",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I009",
+    "placa_vehiculo": "HIJ-456",
+    "nro_tema_leccion": "TL-M010",
+    "lugar": "Cancha - colegio San Jorge",
+    "fecha": "2023-03-10",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000140",
+    "id_curso_practico": "CPM0001",
+    "cedula_instructor": "I010",
+    "placa_vehiculo": "KLM-789",
+    "nro_tema_leccion": "TL-M010",
+    "lugar": "Parqueadero - Unicentro",
+    "fecha": "2023-03-10",
+    "hora_inicio": "18:00:00",
+    "hora_finalizacion": "20:00:00"
+}
+{
+    "id_leccion": "LE000141",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "NOP-234",
+    "nro_tema_leccion": "TL-C001",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-02-27",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000142",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "QRS-567",
+    "nro_tema_leccion": "TL-C001",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-02-27",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000143",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "TUV-890",
+    "nro_tema_leccion": "TL-C001",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-02-27",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000144",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "WXY-123",
+    "nro_tema_leccion": "TL-C001",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-02-27",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000145",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "ZAB-456",
+    "nro_tema_leccion": "TL-C001",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-02-27",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000146",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "CDE-789",
+    "nro_tema_leccion": "TL-C001",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-02-27",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000147",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "QRS-101",
+    "nro_tema_leccion": "TL-C002",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-02-28",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000148",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "NOP-234",
+    "nro_tema_leccion": "TL-C002",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-02-28",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000149",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "QRS-567",
+    "nro_tema_leccion": "TL-C002",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-02-28",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000150",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "TUV-890",
+    "nro_tema_leccion": "TL-C002",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-02-28",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000151",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "WXY-123",
+    "nro_tema_leccion": "TL-C002",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-02-28",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000152",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "ZAB-456",
+    "nro_tema_leccion": "TL-C002",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-02-28",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000153",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "CDE-789",
+    "nro_tema_leccion": "TL-C003",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-03-01",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000154",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "QRS-101",
+    "nro_tema_leccion": "TL-C003",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-03-01",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000155",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "NOP-234",
+    "nro_tema_leccion": "TL-C003",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-03-01",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000156",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "QRS-567",
+    "nro_tema_leccion": "TL-C003",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-03-01",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000157",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "TUV-890",
+    "nro_tema_leccion": "TL-C003",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-03-01",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000158",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "WXY-123",
+    "nro_tema_leccion": "TL-C003",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-03-01",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000159",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "ZAB-456",
+    "nro_tema_leccion": "TL-C004",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-03-02",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000160",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "CDE-789",
+    "nro_tema_leccion": "TL-C004",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-03-02",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000161",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "QRS-101",
+    "nro_tema_leccion": "TL-C004",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-03-02",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000162",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "NOP-234",
+    "nro_tema_leccion": "TL-C004",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-03-02",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000163",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "QRS-567",
+    "nro_tema_leccion": "TL-C004",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-03-02",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000164",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "TUV-890",
+    "nro_tema_leccion": "TL-C004",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-03-02",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000165",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "WXY-123",
+    "nro_tema_leccion": "TL-C005",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-03-03",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000166",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "ZAB-456",
+    "nro_tema_leccion": "TL-C005",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-03-03",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000167",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "CDE-789",
+    "nro_tema_leccion": "TL-C005",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-03-03",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000168",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "QRS-101",
+    "nro_tema_leccion": "TL-C005",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-03-03",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000169",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "NOP-234",
+    "nro_tema_leccion": "TL-C005",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-03-03",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000170",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "QRS-567",
+    "nro_tema_leccion": "TL-C005",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-03-03",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000171",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "TUV-890",
+    "nro_tema_leccion": "TL-C006",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-03-06",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000172",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "WXY-123",
+    "nro_tema_leccion": "TL-C006",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-03-06",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000173",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "ZAB-456",
+    "nro_tema_leccion": "TL-C006",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-03-06",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000174",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "CDE-789",
+    "nro_tema_leccion": "TL-C006",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-03-06",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000175",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "QRS-101",
+    "nro_tema_leccion": "TL-C006",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-03-06",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000176",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "NOP-234",
+    "nro_tema_leccion": "TL-C006",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-03-06",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000177",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "QRS-567",
+    "nro_tema_leccion": "TL-C007",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-03-07",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000178",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "TUV-890",
+    "nro_tema_leccion": "TL-C007",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-03-07",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000179",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "WXY-123",
+    "nro_tema_leccion": "TL-C007",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-03-07",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000180",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "ZAB-456",
+    "nro_tema_leccion": "TL-C007",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-03-07",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000181",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "CDE-789",
+    "nro_tema_leccion": "TL-C007",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-03-07",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000182",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "QRS-101",
+    "nro_tema_leccion": "TL-C007",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-03-07",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000183",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "NOP-234",
+    "nro_tema_leccion": "TL-C008",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-03-08",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000184",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "QRS-567",
+    "nro_tema_leccion": "TL-C008",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-03-08",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000185",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "TUV-890",
+    "nro_tema_leccion": "TL-C008",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-03-08",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000186",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "WXY-123",
+    "nro_tema_leccion": "TL-C008",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-03-08",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000187",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "ZAB-456",
+    "nro_tema_leccion": "TL-C008",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-03-08",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000188",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "CDE-789",
+    "nro_tema_leccion": "TL-C008",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-03-08",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000189",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "QRS-101",
+    "nro_tema_leccion": "TL-C009",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-03-09",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000190",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "NOP-234",
+    "nro_tema_leccion": "TL-C009",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-03-09",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000191",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "QRS-567",
+    "nro_tema_leccion": "TL-C009",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-03-09",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000192",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "TUV-890",
+    "nro_tema_leccion": "TL-C009",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-03-09",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000193",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "WXY-123",
+    "nro_tema_leccion": "TL-C009",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-03-09",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000194",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "ZAB-456",
+    "nro_tema_leccion": "TL-C009",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-03-09",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}
+{
+    "id_leccion": "LE000195",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "CDE-789",
+    "nro_tema_leccion": "TL-C010",
+    "lugar": "Complejo de Entrenamiento de Camiones DeltaLogix",
+    "fecha": "2023-03-10",
+    "hora_inicio": "06:00:00",
+    "hora_finalizacion": "08:00:00"
+}
+{
+    "id_leccion": "LE000196",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I011",
+    "placa_vehiculo": "QRS-101",
+    "nro_tema_leccion": "TL-C010",
+    "lugar": "Instalaciones de Enseñanza TransporteXpress",
+    "fecha": "2023-03-10",
+    "hora_inicio": "08:00:00",
+    "hora_finalizacion": "10:00:00"
+}
+{
+    "id_leccion": "LE000197",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I012",
+    "placa_vehiculo": "NOP-234",
+    "nro_tema_leccion": "TL-C010",
+    "lugar": "Pista de entrenamiento TruckPilot",
+    "fecha": "2023-03-10",
+    "hora_inicio": "10:00:00",
+    "hora_finalizacion": "12:00:00"
+}
+{
+    "id_leccion": "LE000198",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I013",
+    "placa_vehiculo": "QRS-567",
+    "nro_tema_leccion": "TL-C010",
+    "lugar": "Centro Logístico CaminoReal",
+    "fecha": "2023-03-10",
+    "hora_inicio": "12:00:00",
+    "hora_finalizacion": "14:00:00"
+}
+{
+    "id_leccion": "LE000199",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I014",
+    "placa_vehiculo": "TUV-890",
+    "nro_tema_leccion": "TL-C010",
+    "lugar": "Terrenos de pruebas CargaMax",
+    "fecha": "2023-03-10",
+    "hora_inicio": "14:00:00",
+    "hora_finalizacion": "16:00:00"
+}
+{
+    "id_leccion": "LE000200",
+    "id_curso_practico": "CPC0001",
+    "cedula_instructor": "I015",
+    "placa_vehiculo": "WXY-123",
+    "nro_tema_leccion": "TL-C010",
+    "lugar": "Terrenos de pruebas Ruta 66",
+    "fecha": "2023-03-10",
+    "hora_inicio": "16:00:00",
+    "hora_finalizacion": "18:00:00"
+}

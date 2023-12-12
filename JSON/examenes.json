@@ -1,0 +1,298 @@
+{
+    "id_examen": "EX000001",
+    "id_curso_teorico": "CTA0001",
+    "cedula_estudiante": "E001",
+    "fecha": "2023-02-25",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 36
+}
+{
+    "id_examen": "EX000002",
+    "id_curso_teorico": "CTA0002",
+    "cedula_estudiante": "E002",
+    "fecha": "2023-02-25",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 37
+}
+{
+    "id_examen": "EX000003",
+    "id_curso_teorico": "CTA0001",
+    "cedula_estudiante": "E003",
+    "fecha": "2023-02-25",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00",
+    "estado": "REPROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 30
+}
+{
+    "id_examen": "EX000004",
+    "id_curso_teorico": "CTA0001",
+    "cedula_estudiante": "E003",
+    "fecha": "2023-02-26",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 37
+}
+{
+    "id_examen": "EX000005",
+    "id_curso_teorico": "CTA0002",
+    "cedula_estudiante": "E004",
+    "fecha": "2023-02-25",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 40
+}
+{
+    "id_examen": "EX000006",
+    "id_curso_teorico": "CTA0001",
+    "cedula_estudiante": "E005",
+    "fecha": "2023-02-25",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 39
+}
+{
+    "id_examen": "EX000007",
+    "id_curso_teorico": "CTA0002",
+    "cedula_estudiante": "E006",
+    "fecha": "2023-02-25",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 39
+}
+{
+    "id_examen": "EX000008",
+    "id_curso_teorico": "CTA0001",
+    "cedula_estudiante": "E007",
+    "fecha": "2023-02-25",
+    "hora_inicio": "06:00:00",
+    "hora_fin": "08:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 38
+}
+{
+    "id_examen": "EX000009",
+    "id_curso_teorico": "CTM0001",
+    "cedula_estudiante": "E008",
+    "fecha": "2023-02-25",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 38
+}
+{
+    "id_examen": "EX000010",
+    "id_curso_teorico": "CTM0002",
+    "cedula_estudiante": "E009",
+    "fecha": "2023-02-25",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00",
+    "estado": "REPROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 15
+}
+{
+    "id_examen": "EX000011",
+    "id_curso_teorico": "CTM0002",
+    "cedula_estudiante": "E009",
+    "fecha": "2023-02-26",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00",
+    "estado": "REPROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 22
+}
+{
+    "id_examen": "EX000012",
+    "id_curso_teorico": "CTM0002",
+    "cedula_estudiante": "E009",
+    "fecha": "2023-02-26",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 37
+}
+{
+    "id_examen": "EX000013",
+    "id_curso_teorico": "CTM0001",
+    "cedula_estudiante": "E010",
+    "fecha": "2023-02-25",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 39
+}
+{
+    "id_examen": "EX000014",
+    "id_curso_teorico": "CTM0002",
+    "cedula_estudiante": "E011",
+    "fecha": "2023-02-25",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 36
+}
+{
+    "id_examen": "EX000015",
+    "id_curso_teorico": "CTM0001",
+    "cedula_estudiante": "E012",
+    "fecha": "2023-02-25",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00",
+    "estado": "REPROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 34
+}
+{
+    "id_examen": "EX000016",
+    "id_curso_teorico": "CTM0001",
+    "cedula_estudiante": "E012",
+    "fecha": "2023-02-26",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00",
+    "estado": "REPROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 35
+}
+{
+    "id_examen": "EX000017",
+    "id_curso_teorico": "CTM0001",
+    "cedula_estudiante": "E012",
+    "fecha": "2023-02-26",
+    "hora_inicio": "16:00:00",
+    "hora_fin": "18:00:00",
+    "estado": "REPROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 35
+}
+{
+    "id_examen": "EX000018",
+    "id_curso_teorico": "CTM0001",
+    "cedula_estudiante": "E012",
+    "fecha": "2023-02-26",
+    "hora_inicio": "20:00:00",
+    "hora_fin": "22:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 37
+}
+{
+    "id_examen": "EX000019",
+    "id_curso_teorico": "CTM0001",
+    "cedula_estudiante": "E013",
+    "fecha": "2023-02-25",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 36
+}
+{
+    "id_examen": "EX000020",
+    "id_curso_teorico": "CTM0001",
+    "cedula_estudiante": "E014",
+    "fecha": "2023-02-25",
+    "hora_inicio": "08:00:00",
+    "hora_fin": "10:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 38
+}
+
+{
+    "id_examen": "EX000021",
+    "id_curso_teorico": "CTC0001",
+    "cedula_estudiante": "E015",
+    "fecha": "2023-02-25",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00",
+    "estado": "REPROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 31
+}
+{
+    "id_examen": "EX000022",
+    "id_curso_teorico": "CTC0001",
+    "cedula_estudiante": "E015",
+    "fecha": "2023-02-26",
+    "hora_inicio": "18:00:00",
+    "hora_fin": "20:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 40
+}
+{
+    "id_examen": "EX000023",
+    "id_curso_teorico": "CTC0001",
+    "cedula_estudiante": "E016",
+    "fecha": "2023-02-25",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 36
+}
+{
+    "id_examen": "EX000024",
+    "id_curso_teorico": "CTC0001",
+    "cedula_estudiante": "E017",
+    "fecha": "2023-02-25",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 37
+}
+{
+    "id_examen": "EX000025",
+    "id_curso_teorico": "CTC0001",
+    "cedula_estudiante": "E018",
+    "fecha": "2023-02-25",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 40
+}
+{
+    "id_examen": "EX000026",
+    "id_curso_teorico": "CTC0001",
+    "cedula_estudiante": "E019",
+    "fecha": "2023-02-25",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 39
+}
+{
+    "id_examen": "EX000027",
+    "id_curso_teorico": "CTC0002",
+    "cedula_estudiante": "E020",
+    "fecha": "2023-02-25",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "12:00:00",
+    "estado": "APROBADO",
+    "total_preguntas": 40,
+    "preguntas_acertadas": 40
+}

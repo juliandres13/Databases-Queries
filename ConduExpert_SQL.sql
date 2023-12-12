@@ -958,7 +958,7 @@ VALUES
     ('LE000200', 'CPC0001', 'I015', 'WXY-123', 'TL-C010', 'Terrenos de pruebas Ruta 66', '2023-03-10', '16:00:00', '18:00:00');
     
 
--- -------------- DISPONIBILIDAD INSTRUCTORES -------------------
+----------------- DISPONIBILIDAD INSTRUCTORES -------------------
     
 INSERT INTO disponibilidad_instructores (id_disp_instructor, cedula_instructor, fecha, hora_inicio, hora_fin)
 VALUES

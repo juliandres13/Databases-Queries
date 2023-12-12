@@ -24,21 +24,6 @@
     "capacidad": 35
 }
 {
-    "id_salon": "S106",
-    "ubicacion": "Piso 1",
-    "capacidad": 30
-}
-{
-    "id_salon": "S107",
-    "ubicacion": "Piso 1",
-    "capacidad": 45
-}
-{
-    "id_salon": "S108",
-    "ubicacion": "Piso 1",
-    "capacidad": 30
-}
-{
     "id_salon": "S201",
     "ubicacion": "Piso 2",
     "capacidad": 35
@@ -60,16 +45,6 @@
 }
 {
     "id_salon": "S205",
-    "ubicacion": "Piso 2",
-    "capacidad": 30
-}
-{
-    "id_salon": "S206",
-    "ubicacion": "Piso 2",
-    "capacidad": 35
-}
-{
-    "id_salon": "S207",
     "ubicacion": "Piso 2",
     "capacidad": 30
 }
@@ -97,44 +72,4 @@
     "id_salon": "S305",
     "ubicacion": "Piso 3",
     "capacidad": 30
-}
-{
-    "id_salon": "S306",
-    "ubicacion": "Piso 3",
-    "capacidad": 45
-}
-{
-    "id_salon": "S307",
-    "ubicacion": "Piso 3",
-    "capacidad": 35
-}
-{
-    "id_salon": "S401",
-    "ubicacion": "Piso 4",
-    "capacidad": 35
-}
-{
-    "id_salon": "S402",
-    "ubicacion": "Piso 4",
-    "capacidad": 45
-}
-{
-    "id_salon": "S403",
-    "ubicacion": "Piso 4",
-    "capacidad": 40
-}
-{
-    "id_salon": "S404",
-    "ubicacion": "Piso 4",
-    "capacidad": 25
-}
-{
-    "id_salon": "S405",
-    "ubicacion": "Piso 4",
-    "capacidad": 40
-}
-{
-    "id_salon": "S406",
-    "ubicacion": "Piso 4",
-    "capacidad": 35
 }
