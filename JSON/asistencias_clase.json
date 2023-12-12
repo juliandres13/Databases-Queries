@@ -1,0 +1,1860 @@
+{
+    "id_asistencia_clase": "AC000001",
+    "id_clase": "CL000001",
+    "cedula_estudiante": "E001",
+    "comentario": {
+        "id_comentario_clase": "COC000001",
+        "comentario": "Excellent explanation of traffic signs.",
+        "calificacion": 1
+    }
+}
+{
+    "id_asistencia_clase": "AC000002",
+    "id_clase": "CL000001",
+    "cedula_estudiante": "E003",
+    "comentario": {
+        "id_comentario_clase": "COC000002",
+        "comentario": "The class was a bit boring, but informative.",
+        "calificacion": 2
+    }
+}
+{
+    "id_asistencia_clase": "AC000003",
+    "id_clase": "CL000001",
+    "cedula_estudiante": "E005",
+    "comentario": {
+        "id_comentario_clase": "COC000003",
+        "comentario": "Great detail in parking rules.",
+        "calificacion": 5
+    }
+}
+{
+    "id_asistencia_clase": "AC000004",
+    "id_clase": "CL000001",
+    "cedula_estudiante": "E007",
+    "comentario": {
+        "id_comentario_clase": "COC000004",
+        "comentario": "More information on emergency situations was needed.",
+        "calificacion": 3
+    }
+}
+{
+    "id_asistencia_clase": "AC000005",
+    "id_clase": "CL000007",
+    "cedula_estudiante": "E001",
+    "comentario": {
+        "id_comentario_clase": "COC000005",
+        "comentario": "Very good class, clear and concise.",
+        "calificacion": 5
+    }
+}
+{
+    "id_asistencia_clase": "AC000006",
+    "id_clase": "CL000007",
+    "cedula_estudiante": "E003",
+    "comentario": {
+        "id_comentario_clase": "COC000006",
+        "comentario": "The instructor explained the safety rules very well.",
+        "calificacion": 4
+    }
+}
+{
+    "id_asistencia_clase": "AC000007",
+    "id_clase": "CL000007",
+    "cedula_estudiante": "E005",
+    "comentario": {
+        "id_comentario_clase": "COC000007",
+        "comentario": "The class was longer than necessary.",
+        "calificacion": 2
+    }
+}
+{
+    "id_asistencia_clase": "AC000008",
+    "id_clase": "CL000007",
+    "cedula_estudiante": "E007",
+    "comentario": {
+        "id_comentario_clase": "COC000008",
+        "comentario": "Practical examples would be useful.",
+        "calificacion": 5
+    }
+}
+{
+    "id_asistencia_clase": "AC000009",
+    "id_clase": "CL000013",
+    "cedula_estudiante": "E001",
+    "comentario": {
+        "id_comentario_clase": "COC000009",
+        "comentario": "The night driving part was very useful.",
+        "calificacion": 3
+    }
+}
+{
+    "id_asistencia_clase": "AC000010",
+    "id_clase": "CL000013",
+    "cedula_estudiante": "E003",
+    "comentario": {
+        "id_comentario_clase": "COC000010",
+        "comentario": "Needs to improve the quality of teaching materials.",
+        "calificacion": 1
+    }
+}
+{
+    "id_asistencia_clase": "AC000011",
+    "id_clase": "CL000013",
+    "cedula_estudiante": "E005",
+    "comentario": {
+        "id_comentario_clase": "COC000011",
+        "comentario": "Perfect introduction to traffic laws.",
+        "calificacion": 3
+    }
+}
+{
+    "id_asistencia_clase": "AC000012",
+    "id_clase": "CL000013",
+    "cedula_estudiante": "E007",
+    "comentario": {
+        "id_comentario_clase": "COC000012",
+        "comentario": "There could be more interaction in the class.",
+        "calificacion": 2
+    }
+}
+{
+    "id_asistencia_clase": "AC000013",
+    "id_clase": "CL000019",
+    "cedula_estudiante": "E001",
+    "comentario": {
+        "id_comentario_clase": "COC000013",
+        "comentario": "Valuable information about vehicle maintenance.",
+        "calificacion": 1
+    }
+}
+{
+    "id_asistencia_clase": "AC000014",
+    "id_clase": "CL000019",
+    "cedula_estudiante": "E003",
+    "comentario": {
+        "id_comentario_clase": "COC000014",
+        "comentario": "The teacher was very patient and clear.",
+        "calificacion": 1
+    }
+}
+{
+    "id_asistencia_clase": "AC000015",
+    "id_clase": "CL000019",
+    "cedula_estudiante": "E005",
+    "comentario": {
+        "id_comentario_clase": "COC000015",
+        "comentario": "More real examples in the explanations are needed.",
+        "calificacion": 2
+    }
+}
+{
+    "id_asistencia_clase": "AC000016",
+    "id_clase": "CL000019",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000017",
+    "id_clase": "CL000025",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000018",
+    "id_clase": "CL000025",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000019",
+    "id_clase": "CL000025",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000020",
+    "id_clase": "CL000025",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000021",
+    "id_clase": "CL000031",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000022",
+    "id_clase": "CL000031",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000023",
+    "id_clase": "CL000031",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000024",
+    "id_clase": "CL000031",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000025",
+    "id_clase": "CL000037",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000026",
+    "id_clase": "CL000037",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000027",
+    "id_clase": "CL000037",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000028",
+    "id_clase": "CL000037",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000029",
+    "id_clase": "CL000043",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000030",
+    "id_clase": "CL000043",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000031",
+    "id_clase": "CL000043",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000032",
+    "id_clase": "CL000043",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000033",
+    "id_clase": "CL000049",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000034",
+    "id_clase": "CL000049",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000035",
+    "id_clase": "CL000049",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000036",
+    "id_clase": "CL000049",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000037",
+    "id_clase": "CL000055",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000038",
+    "id_clase": "CL000055",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000039",
+    "id_clase": "CL000055",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000040",
+    "id_clase": "CL000055",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000041",
+    "id_clase": "CL000061",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000042",
+    "id_clase": "CL000061",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000043",
+    "id_clase": "CL000061",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000044",
+    "id_clase": "CL000061",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000045",
+    "id_clase": "CL000067",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000046",
+    "id_clase": "CL000067",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000047",
+    "id_clase": "CL000067",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000048",
+    "id_clase": "CL000067",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000049",
+    "id_clase": "CL000073",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000050",
+    "id_clase": "CL000073",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000051",
+    "id_clase": "CL000073",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000052",
+    "id_clase": "CL000073",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000053",
+    "id_clase": "CL000079",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000054",
+    "id_clase": "CL000079",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000055",
+    "id_clase": "CL000079",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000056",
+    "id_clase": "CL000079",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000057",
+    "id_clase": "CL000085",
+    "cedula_estudiante": "E001",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000058",
+    "id_clase": "CL000085",
+    "cedula_estudiante": "E003",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000059",
+    "id_clase": "CL000085",
+    "cedula_estudiante": "E005",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000060",
+    "id_clase": "CL000085",
+    "cedula_estudiante": "E007",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000061",
+    "id_clase": "CL000002",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000062",
+    "id_clase": "CL000002",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000063",
+    "id_clase": "CL000002",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000064",
+    "id_clase": "CL000008",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000065",
+    "id_clase": "CL000008",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000066",
+    "id_clase": "CL000008",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000067",
+    "id_clase": "CL000014",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000068",
+    "id_clase": "CL000014",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000069",
+    "id_clase": "CL000014",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000070",
+    "id_clase": "CL000020",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000071",
+    "id_clase": "CL000020",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000072",
+    "id_clase": "CL000020",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000073",
+    "id_clase": "CL000026",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000074",
+    "id_clase": "CL000026",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000075",
+    "id_clase": "CL000026",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000076",
+    "id_clase": "CL000032",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000077",
+    "id_clase": "CL000032",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000078",
+    "id_clase": "CL000032",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000079",
+    "id_clase": "CL000038",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000080",
+    "id_clase": "CL000038",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000081",
+    "id_clase": "CL000038",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000082",
+    "id_clase": "CL000044",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000083",
+    "id_clase": "CL000044",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000084",
+    "id_clase": "CL000044",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000085",
+    "id_clase": "CL000050",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000086",
+    "id_clase": "CL000050",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000087",
+    "id_clase": "CL000050",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000088",
+    "id_clase": "CL000056",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000089",
+    "id_clase": "CL000056",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000090",
+    "id_clase": "CL000056",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000091",
+    "id_clase": "CL000062",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000092",
+    "id_clase": "CL000062",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000093",
+    "id_clase": "CL000062",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000094",
+    "id_clase": "CL000068",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000095",
+    "id_clase": "CL000068",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000096",
+    "id_clase": "CL000068",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000097",
+    "id_clase": "CL000074",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000098",
+    "id_clase": "CL000074",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000099",
+    "id_clase": "CL000074",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000100",
+    "id_clase": "CL000080",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000101",
+    "id_clase": "CL000080",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000102",
+    "id_clase": "CL000080",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000103",
+    "id_clase": "CL000086",
+    "cedula_estudiante": "E002",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000104",
+    "id_clase": "CL000086",
+    "cedula_estudiante": "E004",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000105",
+    "id_clase": "CL000086",
+    "cedula_estudiante": "E006",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000106",
+    "id_clase": "CL000003",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000107",
+    "id_clase": "CL000003",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000108",
+    "id_clase": "CL000003",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000109",
+    "id_clase": "CL000003",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000110",
+    "id_clase": "CL000003",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000111",
+    "id_clase": "CL000009",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000112",
+    "id_clase": "CL000009",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000113",
+    "id_clase": "CL000009",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000114",
+    "id_clase": "CL000009",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000115",
+    "id_clase": "CL000009",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000116",
+    "id_clase": "CL000015",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000117",
+    "id_clase": "CL000015",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000118",
+    "id_clase": "CL000015",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000119",
+    "id_clase": "CL000015",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000120",
+    "id_clase": "CL000015",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000121",
+    "id_clase": "CL000021",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000122",
+    "id_clase": "CL000021",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000123",
+    "id_clase": "CL000021",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000124",
+    "id_clase": "CL000021",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000125",
+    "id_clase": "CL000021",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000126",
+    "id_clase": "CL000027",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000127",
+    "id_clase": "CL000027",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000128",
+    "id_clase": "CL000027",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000129",
+    "id_clase": "CL000027",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000130",
+    "id_clase": "CL000027",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000131",
+    "id_clase": "CL000033",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000132",
+    "id_clase": "CL000033",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000133",
+    "id_clase": "CL000033",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000134",
+    "id_clase": "CL000033",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000135",
+    "id_clase": "CL000033",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000136",
+    "id_clase": "CL000039",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000137",
+    "id_clase": "CL000039",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000138",
+    "id_clase": "CL000039",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000139",
+    "id_clase": "CL000039",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000140",
+    "id_clase": "CL000039",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000141",
+    "id_clase": "CL000045",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000142",
+    "id_clase": "CL000045",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000143",
+    "id_clase": "CL000045",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000144",
+    "id_clase": "CL000045",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000145",
+    "id_clase": "CL000045",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000146",
+    "id_clase": "CL000051",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000147",
+    "id_clase": "CL000051",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000148",
+    "id_clase": "CL000051",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000149",
+    "id_clase": "CL000051",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000150",
+    "id_clase": "CL000051",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000151",
+    "id_clase": "CL000057",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000152",
+    "id_clase": "CL000057",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000153",
+    "id_clase": "CL000057",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000154",
+    "id_clase": "CL000057",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000155",
+    "id_clase": "CL000057",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000156",
+    "id_clase": "CL000063",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000157",
+    "id_clase": "CL000063",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000158",
+    "id_clase": "CL000063",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000159",
+    "id_clase": "CL000063",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000160",
+    "id_clase": "CL000063",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000161",
+    "id_clase": "CL000069",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000162",
+    "id_clase": "CL000069",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000163",
+    "id_clase": "CL000069",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000164",
+    "id_clase": "CL000069",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000165",
+    "id_clase": "CL000069",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000166",
+    "id_clase": "CL000075",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000167",
+    "id_clase": "CL000075",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000168",
+    "id_clase": "CL000075",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000169",
+    "id_clase": "CL000075",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000170",
+    "id_clase": "CL000075",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000171",
+    "id_clase": "CL000081",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000172",
+    "id_clase": "CL000081",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000173",
+    "id_clase": "CL000081",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000174",
+    "id_clase": "CL000081",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000175",
+    "id_clase": "CL000081",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000176",
+    "id_clase": "CL000087",
+    "cedula_estudiante": "E008",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000177",
+    "id_clase": "CL000087",
+    "cedula_estudiante": "E010",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000178",
+    "id_clase": "CL000087",
+    "cedula_estudiante": "E012",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000179",
+    "id_clase": "CL000087",
+    "cedula_estudiante": "E013",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000180",
+    "id_clase": "CL000087",
+    "cedula_estudiante": "E014",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000181",
+    "id_clase": "CL000004",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000182",
+    "id_clase": "CL000004",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000183",
+    "id_clase": "CL000010",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000184",
+    "id_clase": "CL000010",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000185",
+    "id_clase": "CL000016",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000186",
+    "id_clase": "CL000016",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000187",
+    "id_clase": "CL000022",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000188",
+    "id_clase": "CL000022",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000189",
+    "id_clase": "CL000028",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000190",
+    "id_clase": "CL000028",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000191",
+    "id_clase": "CL000034",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000192",
+    "id_clase": "CL000034",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000193",
+    "id_clase": "CL000040",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000194",
+    "id_clase": "CL000040",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000195",
+    "id_clase": "CL000046",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000196",
+    "id_clase": "CL000046",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000197",
+    "id_clase": "CL000052",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000198",
+    "id_clase": "CL000052",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000199",
+    "id_clase": "CL000058",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000200",
+    "id_clase": "CL000058",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000201",
+    "id_clase": "CL000064",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000202",
+    "id_clase": "CL000064",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000203",
+    "id_clase": "CL000070",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000204",
+    "id_clase": "CL000070",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000205",
+    "id_clase": "CL000076",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000206",
+    "id_clase": "CL000076",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000207",
+    "id_clase": "CL000082",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000208",
+    "id_clase": "CL000082",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000209",
+    "id_clase": "CL000088",
+    "cedula_estudiante": "E009",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000210",
+    "id_clase": "CL000088",
+    "cedula_estudiante": "E011",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000211",
+    "id_clase": "CL000005",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000212",
+    "id_clase": "CL000005",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000213",
+    "id_clase": "CL000005",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000214",
+    "id_clase": "CL000005",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000215",
+    "id_clase": "CL000005",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000216",
+    "id_clase": "CL000011",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000217",
+    "id_clase": "CL000011",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000218",
+    "id_clase": "CL000011",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000219",
+    "id_clase": "CL000011",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000220",
+    "id_clase": "CL000011",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000221",
+    "id_clase": "CL000017",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000222",
+    "id_clase": "CL000017",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000223",
+    "id_clase": "CL000017",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000224",
+    "id_clase": "CL000017",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000225",
+    "id_clase": "CL000017",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000226",
+    "id_clase": "CL000023",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000227",
+    "id_clase": "CL000023",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000228",
+    "id_clase": "CL000023",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000229",
+    "id_clase": "CL000023",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000230",
+    "id_clase": "CL000023",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000231",
+    "id_clase": "CL000029",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000232",
+    "id_clase": "CL000029",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000233",
+    "id_clase": "CL000029",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000234",
+    "id_clase": "CL000029",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000235",
+    "id_clase": "CL000029",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000236",
+    "id_clase": "CL000035",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000237",
+    "id_clase": "CL000035",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000238",
+    "id_clase": "CL000035",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000239",
+    "id_clase": "CL000035",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000240",
+    "id_clase": "CL000035",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000241",
+    "id_clase": "CL000041",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000242",
+    "id_clase": "CL000041",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000243",
+    "id_clase": "CL000041",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000244",
+    "id_clase": "CL000041",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000245",
+    "id_clase": "CL000041",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000246",
+    "id_clase": "CL000047",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000247",
+    "id_clase": "CL000047",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000248",
+    "id_clase": "CL000047",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000249",
+    "id_clase": "CL000047",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000250",
+    "id_clase": "CL000047",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000251",
+    "id_clase": "CL000053",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000252",
+    "id_clase": "CL000053",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000253",
+    "id_clase": "CL000053",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000254",
+    "id_clase": "CL000053",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000255",
+    "id_clase": "CL000053",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000256",
+    "id_clase": "CL000059",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000257",
+    "id_clase": "CL000059",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000258",
+    "id_clase": "CL000059",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000259",
+    "id_clase": "CL000059",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000260",
+    "id_clase": "CL000059",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000261",
+    "id_clase": "CL000065",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000262",
+    "id_clase": "CL000065",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000263",
+    "id_clase": "CL000065",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000264",
+    "id_clase": "CL000065",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000265",
+    "id_clase": "CL000065",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000266",
+    "id_clase": "CL000071",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000267",
+    "id_clase": "CL000071",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000268",
+    "id_clase": "CL000071",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000269",
+    "id_clase": "CL000071",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000270",
+    "id_clase": "CL000071",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000271",
+    "id_clase": "CL000077",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000272",
+    "id_clase": "CL000077",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000273",
+    "id_clase": "CL000077",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000274",
+    "id_clase": "CL000077",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000275",
+    "id_clase": "CL000077",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000276",
+    "id_clase": "CL000083",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000277",
+    "id_clase": "CL000083",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000278",
+    "id_clase": "CL000083",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000279",
+    "id_clase": "CL000083",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000280",
+    "id_clase": "CL000083",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000281",
+    "id_clase": "CL000089",
+    "cedula_estudiante": "E015",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000282",
+    "id_clase": "CL000089",
+    "cedula_estudiante": "E016",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000283",
+    "id_clase": "CL000089",
+    "cedula_estudiante": "E017",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000284",
+    "id_clase": "CL000089",
+    "cedula_estudiante": "E018",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000285",
+    "id_clase": "CL000089",
+    "cedula_estudiante": "E019",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000286",
+    "id_clase": "CL000006",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000287",
+    "id_clase": "CL000012",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000288",
+    "id_clase": "CL000018",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000289",
+    "id_clase": "CL000024",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000290",
+    "id_clase": "CL000030",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000291",
+    "id_clase": "CL000036",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000292",
+    "id_clase": "CL000042",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000293",
+    "id_clase": "CL000048",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000294",
+    "id_clase": "CL000054",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000295",
+    "id_clase": "CL000060",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000296",
+    "id_clase": "CL000066",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000297",
+    "id_clase": "CL000072",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000298",
+    "id_clase": "CL000078",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000299",
+    "id_clase": "CL000084",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
+{
+    "id_asistencia_clase": "AC000300",
+    "id_clase": "CL000090",
+    "cedula_estudiante": "E020",
+    "comentario": null
+}
