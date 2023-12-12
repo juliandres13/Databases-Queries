@@ -1769,6 +1769,72 @@ VALUES
     ('AL000198', 'LE000198', 'E018'),
     ('AL000199', 'LE000199', 'E019'),
     ('AL000200', 'LE000200', 'E020');
+    
+-- CONSULTAS
+
+-- ¿A qué clases ha asistido los estudiantes, con cuales instructores, que salón, qué temas de clase y qué fecha y hora?
+
+SELECT clases.cedula_instructor, clases.id_clase, clases.id_salon, clases.nro_tema_clase, asistencia_clases.cedula_estudiante, clases.fecha_clase, clases.hora_inicio, clases.hora_fin
+FROM clases
+JOIN asistencia_clases ON clases.id_clase = asistencia_clases.id_clase;
+
+-- ¿A qué clases ha asistido los estudiantes, con cuales instructores, que salón, qué temas de clase y qué fecha y hora? CON NOMBRES
+
+SELECT instructores.nombre_instructor, clases.id_clase, clases.id_salon, temas_clase.titulo_tema, estudiantes.nombre_estudiante, clases.fecha_clase, clases.hora_inicio, clases.hora_fin
+FROM clases
+JOIN asistencia_clases ON clases.id_clase = asistencia_clases.id_clase
+JOIN estudiantes ON asistencia_clases.cedula_estudiante = estudiantes.cedula_estudiante
+JOIN instructores ON clases.cedula_instructor = instructores.cedula_instructor
+JOIN temas_clase ON clases.nro_tema_clase = temas_clase.nro_tema_clase;
+
+-- ¿Cual es el instructor que mas lecciones ha impartido?
+
+SELECT *
+FROM (SELECT cedula_instructor, COUNT(id_leccion) AS CantidadLecciones
+	  FROM lecciones
+	  GROUP BY cedula_instructor) AS subconsulta1
+WHERE CantidadLecciones = (SELECT MAX(CantidadLecciones)
+						   FROM (SELECT cedula_instructor, COUNT(id_leccion) AS CantidadLecciones
+						   FROM lecciones
+						   GROUP BY cedula_instructor) AS subconsulta2);
+
+-- ¿Cuál es el vehiculo mas utilizado por el estudiante que mas ha reprobado su examen teorico?
+
+-- estudiante que mas ha reprobado su examen teorico
+
+SELECT cedula_estudiante, COUNT(estado_examen) AS VecesReprobado
+FROM examenes
+GROUP BY cedula_estudiante
+HAVING VecesReprobado >= ALL(SELECT COUNT(estado_examen) AS VecesReprobado
+							 FROM examenes
+							 GROUP BY cedula_estudiante);
+  	
+-- Consulta final
+
+SELECT *
+FROM (SELECT asistencia_lecciones.cedula_estudiante, lecciones.placa_vehiculo, COUNT(lecciones.placa_vehiculo) AS VecesUtilizado
+	  FROM lecciones
+	  JOIN asistencia_lecciones ON lecciones.id_leccion = asistencia_lecciones.id_leccion
+	  WHERE asistencia_lecciones.cedula_estudiante = (SELECT cedula_estudiante
+													  FROM (SELECT cedula_estudiante, COUNT(estado_examen) AS VecesReprobado
+														    FROM examenes
+														    GROUP BY cedula_estudiante
+														    HAVING VecesReprobado >= ALL(SELECT COUNT(estado_examen) AS VecesReprobado
+																					     FROM examenes
+																					     GROUP BY cedula_estudiante)) AS subconsulta1)
+	  GROUP BY asistencia_lecciones.cedula_estudiante, lecciones.placa_vehiculo) AS subconsulta2
+WHERE VecesUtilizado = (SELECT MAX(VecesUtilizado)
+						FROM (SELECT asistencia_lecciones.cedula_estudiante, lecciones.placa_vehiculo, COUNT(lecciones.placa_vehiculo) AS VecesUtilizado
+							  FROM lecciones
+							  JOIN asistencia_lecciones ON lecciones.id_leccion = asistencia_lecciones.id_leccion
+							  WHERE asistencia_lecciones.cedula_estudiante = (SELECT cedula_estudiante
+																			  FROM (SELECT cedula_estudiante, COUNT(estado_examen) AS VecesReprobado
+																				    FROM examenes
+																				    GROUP BY cedula_estudiante
+																				    HAVING VecesReprobado >= ALL(SELECT COUNT(estado_examen) AS VecesReprobado
+																											     FROM examenes
+																											     GROUP BY cedula_estudiante)) AS subconsulta1)
+							  GROUP BY asistencia_lecciones.cedula_estudiante, lecciones.placa_vehiculo) AS subconsulta3);
 
     
 
